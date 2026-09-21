@@ -1,0 +1,14 @@
+prefix=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+sharedlibdir=${libdir}
+includedir=${prefix}/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.2
+License: Zlib
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

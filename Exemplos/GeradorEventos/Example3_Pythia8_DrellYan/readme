@@ -1,0 +1,17 @@
+c++ pythia_drell_yan.cc -o pythia_drell_yan \
+    $(pythia8-config --cxxflags --libs) \
+    $(root-config --cflags --libs)
+    
+root -l pythia_drell_yan.root
+
+   TFile *f = TFile::Open("pythia_drell_yan.root")
+   f->ls()
+   events->Print();
+events->Draw("invariantMass");
+events->Draw("muPlusPt");
+events->Draw("muMinusPt");
+events->Draw("muPlusEta:muMinusEta");
+events->Draw(
+    "invariantMass",
+    "muPlusPt > 25 && muMinusPt > 25 && abs(muPlusEta) < 2.5 && abs(muMinusEta) < 2.5"
+); 

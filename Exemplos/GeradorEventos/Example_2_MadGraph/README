@@ -1,0 +1,25 @@
+./bin/mg5_aMC
+import model sm
+generate p p > mu+ mu-
+output mg_drell_yan
+launch
+gunzip mg_drell_yan/Events/run_01/unweighted_events.lhe.gz
+g++ lhe_to_root.cc -o lhe_to_root \
+    $(root-config --cflags --libs)
+./lhe_to_root \
+    mg_drell_yan/Events/run_01/unweighted_events.lhe \
+    madgraph_drell_yan.root
+
+root -l madgraph_drell_yan.root
+
+events->Print();
+events->Draw("invariantMass");
+events->Draw("muPlusPt");
+events->Draw("muMinusPt");
+events->Draw("muPlusEta");
+events->Draw("muMinusEta");
+
+events->Draw(
+    "invariantMass",
+    "muPlusPt > 25 && muMinusPt > 25 && abs(muPlusEta) < 2.5 && abs(muMinusEta) < 2.5"
+);

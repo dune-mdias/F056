@@ -1,0 +1,942 @@
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:36: SyntaxWarning: invalid escape sequence '\#'
+  dicolatex = {'#':'\#','%':'\%','_':'\_','/':'/\-', \
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:36: SyntaxWarning: invalid escape sequence '\%'
+  dicolatex = {'#':'\#','%':'\%','_':'\_','/':'/\-', \
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:36: SyntaxWarning: invalid escape sequence '\_'
+  dicolatex = {'#':'\#','%':'\%','_':'\_','/':'/\-', \
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:36: SyntaxWarning: invalid escape sequence '\-'
+  dicolatex = {'#':'\#','%':'\%','_':'\_','/':'/\-', \
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:37: SyntaxWarning: invalid escape sequence '\{'
+  '{':'\{', '}':'\}','^':'\^{}'}
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:37: SyntaxWarning: invalid escape sequence '\}'
+  '{':'\{', '}':'\}','^':'\^{}'}
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/text_report.py:37: SyntaxWarning: invalid escape sequence '\^'
+  '{':'\{', '}':'\}','^':'\^{}'}
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/latex_report_writer.py:190: SyntaxWarning: invalid escape sequence '\m'
+  self.file.write('      \multicolumn{' + str(span) + '}{c}{\\cellcolor{'+ColorType.convert2string(color)+"}")
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/IOinterface/latex_report_writer.py:196: SyntaxWarning: invalid escape sequence '\m'
+  self.file.write('}& \multicolumn{' + str(span) + '}{c}{\\cellcolor{'+ColorType.convert2string(color)+"}")
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/layout/plotflow.py:666: SyntaxWarning: invalid escape sequence '\_'
+  mytitle  = mytitle.replace('_','\_')
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/layout/plotflow.py:848: SyntaxWarning: invalid escape sequence '\ '
+  axis_titleY += " $(#mathrm{scaled}\ #mathrm{to}# #mathrm{one})$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/layout/plotflow.py:961: SyntaxWarning: invalid escape sequence '\_'
+  outputPy.write('"'+str(histos[0].stringlabels[bin]).replace('_','\_')+'"')
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/fastsim/ast.py:194: SyntaxWarning: invalid escape sequence '\ '
+  if re.match("""(?x) ^ [+-]?\ *  (  \d+ ( \.\d* )? |\.\d+ ) ([eE][+-]?\d+)? $""", elem):
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:50: SyntaxWarning: invalid escape sequence '\s'
+  latex="$\sqrt{\hat{s}}$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:165: SyntaxWarning: invalid escape sequence '\s'
+  latex="$\slash{E}_T$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:222: SyntaxWarning: invalid escape sequence '\s'
+  latex="$\slash{H}_T$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:241: SyntaxWarning: invalid escape sequence '\o'
+  latex="$\omega$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:662: SyntaxWarning: invalid escape sequence '\D'
+  latex="$\Delta R$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:671: SyntaxWarning: invalid escape sequence '\D'
+  latex="$d\Delta R$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:690: SyntaxWarning: invalid escape sequence '\D'
+  latex="$\Delta\Phi_{0,\pi}$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:709: SyntaxWarning: invalid escape sequence '\D'
+  latex="$\Delta\Phi_{0,2\pi}$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:728: SyntaxWarning: invalid escape sequence '\D'
+  latex="$\Delta M$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:748: SyntaxWarning: invalid escape sequence '\e'
+  latex="$\eta$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:753: SyntaxWarning: invalid escape sequence '\e'
+  ETA, name="sETA", combination=CombinationType.SUMSCALAR, tlatex="s#eta", latex="$s\eta$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:756: SyntaxWarning: invalid escape sequence '\e'
+  ETA, name="sdETA", combination=CombinationType.DIFFSCALAR, tlatex="sd#eta", latex="$sd\eta$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:759: SyntaxWarning: invalid escape sequence '\e'
+  ETA, name="dETA", combination=CombinationType.DIFFVECTOR, tlatex="d#eta", latex="$d\eta$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:762: SyntaxWarning: invalid escape sequence '\e'
+  ETA, name="rETA", combination=CombinationType.RATIO, tlatex="r#eta", latex="$r\eta$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:781: SyntaxWarning: invalid escape sequence '\e'
+  latex="$|\eta|$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:790: SyntaxWarning: invalid escape sequence '\e'
+  latex="$s|\eta|$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:797: SyntaxWarning: invalid escape sequence '\e'
+  latex="$sd|\eta|$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:804: SyntaxWarning: invalid escape sequence '\e'
+  latex="$d|\eta|$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:807: SyntaxWarning: invalid escape sequence '\e'
+  ABSETA, name="rABSETA", combination=CombinationType.RATIO, tlatex="r|#eta|", latex="$r|\eta|$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:868: SyntaxWarning: invalid escape sequence '\p'
+  latex="$\phi$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:877: SyntaxWarning: invalid escape sequence '\p'
+  latex="$s\phi$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:886: SyntaxWarning: invalid escape sequence '\p'
+  latex="$sd\phi$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:891: SyntaxWarning: invalid escape sequence '\p'
+  PHI, name="dPHI", combination=CombinationType.DIFFVECTOR, tlatex="d#phi", latex="$d\phi$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:894: SyntaxWarning: invalid escape sequence '\p'
+  PHI, name="rPHI", combination=CombinationType.RATIO, tlatex="r#phi", latex="$r\phi$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:979: SyntaxWarning: invalid escape sequence '\g'
+  latex="$\gamma$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:984: SyntaxWarning: invalid escape sequence '\g'
+  GAMMA, name="sGAMMA", combination=CombinationType.SUMSCALAR, tlatex="s#gamma", latex="$s\gamma$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:991: SyntaxWarning: invalid escape sequence '\g'
+  latex="$sd\gamma$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:998: SyntaxWarning: invalid escape sequence '\g'
+  latex="$d\gamma$",
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/observable/observable_list.py:1001: SyntaxWarning: invalid escape sequence '\g'
+  GAMMA, name="rGAMMA", combination=CombinationType.RATIO, tlatex="r#gamma", latex="$r\gamma$"
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/interpreter/interpreter.py:509: SyntaxWarning: invalid escape sequence '\ '
+  if line and begidx > 2 and line[begidx-2:begidx] == '\ ':
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/interpreter/interpreter.py:511: SyntaxWarning: invalid escape sequence '\ '
+  self.completion_prefix = Ntext.rsplit('\ ', 1)[0] + '\ '
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/interpreter/interpreter.py:511: SyntaxWarning: invalid escape sequence '\ '
+  self.completion_prefix = Ntext.rsplit('\ ', 1)[0] + '\ '
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/interpreter/interpreter.py:514: SyntaxWarning: invalid escape sequence '\ '
+  data = compfunc(Ntext.replace('\ ', ' '), line, Nbegidx, endidx)
+>> Attempting to start MA5 and check the availability of its dependencies...
+[0mMA5: Platform: Linux 7.0.0-28-generic [32m[Linux mode][0m[0m
+[0mMA5: Reading user settings ...[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L277): Opening the file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/input/installation_options.dat[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L285): Lines to interpret: [0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L308): Closing the file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/input/installation_options.dat[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L182): Web access[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L188):   enable[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L189): [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L194): Temporary folder[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L221):   Variable $TMPDIR:         [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L221):   Variable $TMP:            [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L221):   Variable $TEMP:           [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L243): Check if the folder /tmp/mdias exists ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L248): -> not found[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L249): Try to create the folder /tmp/mdias ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L258): temporary folder will be used for MA5: /tmp/mdias[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L262): [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L265): Download dir[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L288): Check if the folder /tmp/mdias/MA5_downloads exists ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L293): -> not found[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L294): Try to create the folder /tmp/mdias/MA5_downloads ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L303): download folder will be used for MA5: /tmp/mdias/MA5_downloads[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L307): [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L310): Text editor[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L311): Look for the global variable $EDITOR ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L319): -> variable not found. VI editor is set by default.[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L323): [0m
+[0mMA5: Checking mandatory packages:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package python[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Python                   [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package gpp[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - GNU GCC g++              [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package make[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - GNU Make                 [32m[OK][0m[0m
+[0mMA5: Checking optional packages devoted to data processing:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package zlib[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_zlib.IsItVetoed() in detect_zlib.py::L83): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_zlib.ToolsDetection() in detect_zlib.py::L180): Look for zlib folder in path /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/zlib ...[0m
+[36mMA5-DEBUG (detect_zlib.ToolsDetection() in detect_zlib.py::L182): -> not found[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_zlib.AutoDetection() in detect_zlib.py::L221): Search for header & libraries possible paths...[0m
+[36mMA5-DEBUG (detect_zlib.AutoDetection() in detect_zlib.py::L224): ->header  paths=['.', '/usr/include', '/usr/local/include'][0m
+[36mMA5-DEBUG (detect_zlib.AutoDetection() in detect_zlib.py::L225): ->library paths=['/usr/include/c++/13', '/usr/include/x86_64-linux-gnu/c++/13', '/usr/include/c++/13/backward', '/usr/lib/gcc/x86_64-linux-gnu/13/include', '/usr/local/include', '/usr/include/x86_64-linux-gnu', '/usr/include', '/snap/root-framework/current/usr/local/lib', '/usr/local/geant4/lib', '.', '/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib', '/usr/lib', '/usr/lib32', '/usr/libexec', '/usr/lib64', '/usr/local/lib', '/usr/lib/gcc/x86_64-linux-gnu/13', '/usr/lib/x86_64-linux-gnu', '/lib/x86_64-linux-gnu', '/lib'][0m
+[36mMA5-DEBUG (detect_zlib.AutoDetection() in detect_zlib.py::L228): Look for the header file zlib.h ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern zlib.h ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/zlib.h ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /usr/include/zlib.h[0m
+[36mMA5-DEBUG (detect_zlib.AutoDetection() in detect_zlib.py::L242): Look for the zlib libraries ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/c++/13/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/c++/13/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/c++/13/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/x86_64-linux-gnu/c++/13/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/x86_64-linux-gnu/c++/13/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/x86_64-linux-gnu/c++/13/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/c++/13/backward/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/c++/13/backward/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/c++/13/backward/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/gcc/x86_64-linux-gnu/13/include/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/gcc/x86_64-linux-gnu/13/include/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/gcc/x86_64-linux-gnu/13/include/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/include/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/include/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/include/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/x86_64-linux-gnu/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/x86_64-linux-gnu/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/x86_64-linux-gnu/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/include/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /snap/root-framework/current/usr/local/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /snap/root-framework/current/usr/local/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /snap/root-framework/current/usr/local/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/geant4/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/geant4/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/geant4/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib32/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib32/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib32/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/libexec/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/libexec/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/libexec/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib64/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib64/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib64/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/local/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/gcc/x86_64-linux-gnu/13/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/gcc/x86_64-linux-gnu/13/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/gcc/x86_64-linux-gnu/13/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L215): -> no file found[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/x86_64-linux-gnu/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /usr/lib/x86_64-linux-gnu/libz.so[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/x86_64-linux-gnu/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /usr/lib/x86_64-linux-gnu/libz.a[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /usr/lib/x86_64-linux-gnu/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /usr/lib/x86_64-linux-gnu/libz.so.1[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /usr/lib/x86_64-linux-gnu/libz.so.1.3[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Zlib                     [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package fastjet[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_fastjet.IsItVetoed() in detect_fastjet.py::L58): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_fastjet.ToolsDetection() in detect_fastjet.py::L95): Look for FastJet in the folder here:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/bin/fastjet-config ...[0m
+[36mMA5-DEBUG (detect_fastjet.ToolsDetection() in detect_fastjet.py::L101): -> not found[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[0mMA5:      - FastJet                  [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package root[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_root.IsItVetoed() in detect_root.py::L63): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_root.ToolsDetection() in detect_root.py::L96): Detecting root-config in the tools folder ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L154): Trying to get library and header paths ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L173): -> root-config found[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L174): -> root version: 6.36.04[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L175): -> root header  folder: /snap/root-framework/current/usr/local/include[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L176): -> root library folder: /snap/root-framework/current/usr/local/lib[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L182): Try to find /snap/root-framework/current/usr/local/lib/libCore.so ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L182): Try to find /snap/root-framework/current/usr/local/include/TH1F.h ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Root                     [32m[OK][0m[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L333): Delphes[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L398): Look for Delphes in the folder /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools ...[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L428): -> not found[0m
+[0mMA5:      - Delphes                  [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L534): Delphes-MA5tune[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L599): Look for DelphesMA5tune in the folder /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools...[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L629): -> not found[0m
+[0mMA5:      - Delphes-MA5tune          [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /snap/root-framework/current/usr/local/bin/root-config[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin/root-config ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /usr/lib/x86_64-linux-gnu/libz.so[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.so ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /usr/lib/x86_64-linux-gnu/libz.a[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.a ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /usr/lib/x86_64-linux-gnu/libz.so.1[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.so.1 ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /usr/lib/x86_64-linux-gnu/libz.so.1.3[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.so.1.3 ...[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L557): -------- BEGIN: set environment variables --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L562): before PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/bin:/snap/root-framework/current/usr/local/bin:/usr/local/geant4/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L563): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L571): after PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin:/snap/root-framework/current/usr/local/bin:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/bin:/snap/root-framework/current/usr/local/bin:/usr/local/geant4/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L572): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L577): before LD_LIBRARY_PATH=/snap/root-framework/current/usr/local/lib:/usr/local/geant4/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:.:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/../Pythia8/LHAPDF/lib/[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L578): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L586): after LD_LIBRARY_PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/usr/local/geant4/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:.:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/../Pythia8/LHAPDF/lib/:[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L587): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L592): before DYLD_LIBRARY_PATH=/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L595): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L604): after DYLD_LIBRARY_PATH=/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L607): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L619): -------- END: set environment variables --------[0m
+[0mMA5: Reading user settings ...[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L277): Opening the file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/input/installation_options.dat[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L285): Lines to interpret: [0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L308): Closing the file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/input/installation_options.dat[0m
+[0mMA5: Checking optional packages devoted to reinterpretation:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package scipy[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_scipy.IsItVetoed() in detect_scipy.py::L57): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - SciPy                    [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package spey[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_spey.AutoDetection() in detect_spey.py::L54): No module named 'spey'[0m
+[0mMA5:      - Spey                     [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package pyhf[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_pyhf.IsItVetoed() in detect_pyhf.py::L50): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_pyhf.AutoDetection() in detect_pyhf.py::L70): No module named 'pyhf'[0m
+[0mMA5:      - pyhf                     [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package pad[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_pad.IsItVetoed() in detect_pad.py::L73): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L170): Are dependencies installed on the machine? ...[0m
+[36mMA5-DEBUG (detect_pad.AreDependenciesInstalled() in detect_pad.py::L86): dependency 'Delphes' is not installed[0m
+[0mMA5:      - PAD                      [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package padma5[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_pad.IsItVetoed() in detect_pad.py::L59): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L170): Are dependencies installed on the machine? ...[0m
+[36mMA5-DEBUG (detect_pad.AreDependenciesInstalled() in detect_pad.py::L82): dependency 'DelphesMA5tune' is not installed[0m
+[0mMA5:      - PADForMA5tune            [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package padsfs[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_pad.IsItVetoed() in detect_pad.py::L66): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L170): Are dependencies installed on the machine? ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[0mMA5:      - PADForSFS                [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package simplify[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_simplify.IsItVetoed() in detect_simplify.py::L50): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_simplify.AutoDetection() in detect_simplify.py::L64): No module named 'simplify'[0m
+[36mMA5-DEBUG (detect_manager.PrintDISABLED() in detect_manager.py::L364):      - likelihood simplifier    [35m[DISABLED][0m[0m
+[0mMA5: Checking optional packages devoted to histogramming:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package root_graphical[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_root_graphical.IsItVetoed() in detect_root_graphical.py::L56): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L170): Are dependencies installed on the machine? ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Root                     [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package matplotlib[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_matplotlib.IsItVetoed() in detect_matplotlib.py::L57): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Matplotlib               [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package gnuplot[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_gnuplot.IsItVetoed() in detect_gnuplot.py::L61): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - gnuplot                  [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package pdflatex[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_pdflatex.IsItVetoed() in detect_pdflatex.py::L61): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - pdflatex                 [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package latex[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_latex.IsItVetoed() in detect_latex.py::L61): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - latex                    [32m[OK][0m[0m
+[36mMA5-DEBUG (main.AutoSetGraphicalRenderer() in main.py::L485): Function AutoSetGraphicalRenderer:[0m
+[36mMA5-DEBUG (main.AutoSetGraphicalRenderer() in main.py::L486):    - ROOT is there:       True[0m
+[36mMA5-DEBUG (main.AutoSetGraphicalRenderer() in main.py::L487):    - Matplotlib is there: True[0m
+[0mMA5: Package used for graphical rendering: [32mRoot[0m[0m
+[36mMA5-DEBUG (checkup.check_updates() in checkup.py::L642): Cannot check updates...[0m
+[0mMA5: Particle labels exported from madanalysis/input/particles_name_default.txt[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [met] with a PDG-id : 100[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mht] with a PDG-id : 99[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [d] with a PDG-id : 1[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [d~] with a PDG-id : -1[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [u] with a PDG-id : 2[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [u~] with a PDG-id : -2[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [s] with a PDG-id : 3[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [s~] with a PDG-id : -3[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [c] with a PDG-id : 4[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [c~] with a PDG-id : -4[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [b] with a PDG-id : 5[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [b~] with a PDG-id : -5[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [t] with a PDG-id : 6[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [t~] with a PDG-id : -6[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [e-] with a PDG-id : 11[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [e+] with a PDG-id : -11[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ve] with a PDG-id : 12[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ve~] with a PDG-id : -12[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mu-] with a PDG-id : 13[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mu+] with a PDG-id : -13[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [vm] with a PDG-id : 14[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [vm~] with a PDG-id : -14[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ta-] with a PDG-id : 15[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ta+] with a PDG-id : -15[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [vt] with a PDG-id : 16[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [vt~] with a PDG-id : -16[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [g] with a PDG-id : 21[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [a] with a PDG-id : 22[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [z] with a PDG-id : 23[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [w+] with a PDG-id : 24[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [w-] with a PDG-id : -24[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [h1] with a PDG-id : 25[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [h2] with a PDG-id : 35[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [h3] with a PDG-id : 36[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [h+] with a PDG-id : 37[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [h-] with a PDG-id : -37[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [dl] with a PDG-id : 1000001[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [dl~] with a PDG-id : -1000001[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [dr] with a PDG-id : 2000001[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [dr~] with a PDG-id : -2000001[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ul] with a PDG-id : 1000002[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ul~] with a PDG-id : -1000002[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ur] with a PDG-id : 2000002[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ur~] with a PDG-id : -2000002[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [sl] with a PDG-id : 1000003[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [sl~] with a PDG-id : -1000003[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [sr] with a PDG-id : 2000003[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [sr~] with a PDG-id : -2000003[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [cl] with a PDG-id : 1000004[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [cl~] with a PDG-id : -1000004[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [cr] with a PDG-id : 2000004[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [cr~] with a PDG-id : -2000004[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [b1] with a PDG-id : 1000005[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [b1~] with a PDG-id : -1000005[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [b2] with a PDG-id : 2000005[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [b2~] with a PDG-id : -2000005[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [t1] with a PDG-id : 1000006[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [t1~] with a PDG-id : -1000006[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [t2] with a PDG-id : 2000006[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [t2~] with a PDG-id : -2000006[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [el-] with a PDG-id : 1000011[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [el+] with a PDG-id : -1000011[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [er-] with a PDG-id : 2000011[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [er+] with a PDG-id : -2000011[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [sve] with a PDG-id : 1000012[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [sve~] with a PDG-id : -1000012[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mul-] with a PDG-id : 1000013[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mul+] with a PDG-id : -1000013[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mur-] with a PDG-id : 2000013[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [mur+] with a PDG-id : -2000013[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [svm] with a PDG-id : 1000014[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [svm~] with a PDG-id : -1000014[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ta1-] with a PDG-id : 1000015[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ta1+] with a PDG-id : -1000015[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ta2-] with a PDG-id : 2000015[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [ta2+] with a PDG-id : -2000015[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [svt] with a PDG-id : 1000016[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [svt~] with a PDG-id : -1000016[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [go] with a PDG-id : 1000021[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [n1] with a PDG-id : 1000022[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [n2] with a PDG-id : 1000023[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [n3] with a PDG-id : 1000025[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [n4] with a PDG-id : 1000035[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [x1+] with a PDG-id : 1000024[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [x1-] with a PDG-id : -1000024[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [x2+] with a PDG-id : 1000037[0m
+[36mMA5-DEBUG (particle_reader.Read() in particle_reader.py::L168): Extracting a particle labelled by [x2-] with a PDG-id : -1000037[0m
+[0mMA5:   => 87 particles successfully exported.[0m
+[0mMA5: Multiparticle labels exported from madanalysis/input/multiparticles_default.txt[0m
+[36mMA5-DEBUG (multiparticle_reader.Read() in multiparticle_reader.py::L173): Extracting a multiparticle labelled by [p] with a PDG-id : ['g', 'u', 'c', 'd', 's', 'u~', 'c~', 'd~', 's~'][0m
+[36mMA5-DEBUG (multiparticle_reader.Read() in multiparticle_reader.py::L173): Extracting a multiparticle labelled by [j] with a PDG-id : ['g', 'u', 'c', 'd', 's', 'u~', 'c~', 'd~', 's~'][0m
+[36mMA5-DEBUG (multiparticle_reader.Read() in multiparticle_reader.py::L173): Extracting a multiparticle labelled by [l+] with a PDG-id : ['e+', 'mu+'][0m
+[36mMA5-DEBUG (multiparticle_reader.Read() in multiparticle_reader.py::L173): Extracting a multiparticle labelled by [l-] with a PDG-id : ['e-', 'mu-'][0m
+[36mMA5-DEBUG (multiparticle_reader.Read() in multiparticle_reader.py::L173): Extracting a multiparticle labelled by [vl] with a PDG-id : ['ve', 'vm', 'vt'][0m
+[36mMA5-DEBUG (multiparticle_reader.Read() in multiparticle_reader.py::L173): Extracting a multiparticle labelled by [vl~] with a PDG-id : ['ve~', 'vm~', 'vt~'][0m
+[0mMA5:   => Creation of the label 'invisible' (-> missing energy).[0m
+[0mMA5:   => Creation of the label 'hadronic' (-> jet energy).[0m
+[0mMA5:   => 8 multiparticles successfully exported.[0m
+[0mMA5: Checking optional packages devoted to data processing:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package zlib[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_zlib.IsItVetoed() in detect_zlib.py::L83): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_zlib.ManualDetection() in detect_zlib.py::L149): User setting: zlib include path is specified.[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zlib.h ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zlib.h[0m
+[36mMA5-DEBUG (detect_zlib.ManualDetection() in detect_zlib.py::L160): User setting: zlib lib path is specified.[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1.3.2[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Zlib                     [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package fastjet[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_fastjet.IsItVetoed() in detect_fastjet.py::L58): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_fastjet.ToolsDetection() in detect_fastjet.py::L95): Look for FastJet in the folder here:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/bin/fastjet-config ...[0m
+[36mMA5-DEBUG (detect_fastjet.ToolsDetection() in detect_fastjet.py::L101): -> not found[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[0mMA5:      - FastJet                  [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package root[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_root.IsItVetoed() in detect_root.py::L63): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_root.ToolsDetection() in detect_root.py::L96): Detecting root-config in the tools folder ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_root.AutoDetection() in detect_root.py::L131):   which:         /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin/root-config [is it a link? True][0m
+[36mMA5-DEBUG (detect_root.AutoDetection() in detect_root.py::L133):                  -> /snap/root-framework/954/usr/local/bin/root-config[0m
+[36mMA5-DEBUG (detect_root.AutoDetection() in detect_root.py::L146):   which-all:     [0m
+[36mMA5-DEBUG (detect_root.AutoDetection() in detect_root.py::L148):     - /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin/root-config[0m
+[36mMA5-DEBUG (detect_root.AutoDetection() in detect_root.py::L148):     - /snap/root-framework/current/usr/local/bin/root-config[0m
+[36mMA5-DEBUG (detect_root.AutoDetection() in detect_root.py::L148):     - /snap/bin/root-config[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L154): Trying to get library and header paths ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L173): -> root-config found[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L174): -> root version: 6.36.04[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L175): -> root header  folder: /snap/root-framework/954/usr/local/include[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L176): -> root library folder: /snap/root-framework/954/usr/local/lib[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L182): Try to find /snap/root-framework/954/usr/local/lib/libCore.so ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L182): Try to find /snap/root-framework/954/usr/local/include/TH1F.h ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L203):   features:      ['asimage', 'asimage_tiff', 'builtin_cfitsio', 'builtin_clang', 'builtin_cling', 'builtin_cppzmq', 'builtin_freetype', 'builtin_ftgl', 'builtin_gif', 'builtin_gl2ps', 'builtin_glew', 'builtin_gtest', 'builtin_jpeg', 'builtin_llvm', 'builtin_lz4', 'builtin_lzma', 'builtin_nlohmannjson', 'builtin_openui5', 'builtin_pcre', 'builtin_png', 'builtin_tbb', 'builtin_vc', 'builtin_vdt', 'builtin_veccore', 'builtin_xxhash', 'builtin_zeromq', 'builtin_zlib', 'builtin_zstd', 'clad', 'cxx20', 'dataframe', 'fitsio', 'gdml', 'geom', 'http', 'imt', 'opengl', 'pyroot', 'roofit', 'root7', 'rpath', 'runtime_cxxmodules', 'shared', 'spectrum', 'ssl', 'tmva', 'tmva-cudnn', 'tmva-pymva', 'tpython', 'use_gsl_cblas', 'vc', 'vdt', 'veccore', 'webgui', 'x11', 'xml'][0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L215):   C++ compiler:      c++[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Root                     [32m[OK][0m[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L333): Delphes[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L338): User setting: veto on Delphes[0m
+[0mMA5:      - Delphes                  [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L534): Delphes-MA5tune[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L539): User setting: veto on Delphes-MA5tune[0m
+[0mMA5:      - Delphes-MA5tune          [35m[DISABLED][0m[0m
+[0mMA5: The fastjet package has not been found. Proceeding with its local installation.[0m
+[0mMA5: [0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:                       Installing fastjet                    [0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Detecting a previous installation ...[0m
+[36mMA5-DEBUG (install_fastjet.Detect() in install_fastjet.py::L57): The folder /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet' is not found[0m
+[0mMA5:    => not found. OK[0m
+[0mMA5:    How many cores would you like to use for the compilation ? default = max = 8[0m
+[0mMA5:    => Number of cores used for the compilation = 8[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Creating a devoted folder ...[0m
+[36mMA5-DEBUG (install_service.create_tools_folder() in install_service.py::L417):    The installation folder 'tools' is already created.[0m
+[36mMA5-DEBUG (install_service.create_package_folder() in install_service.py::L443):    Creation of the directory 'tools/fastjet'[0m
+[0mMA5:    Creating a temporary folder ...[0m
+[36mMA5-DEBUG (install_service.prepare_tmp() in install_service.py::L161): Creating a temporary folder '/tmp/mdias/MA5_fastjet' ...[0m
+[36mMA5-DEBUG (install_service.prepare_tmp() in install_service.py::L170): Creating a temporary download folder '/tmp/mdias/MA5_downloads' ...[0m
+[36mMA5-DEBUG (install_service.prepare_tmp() in install_service.py::L178): folder '/tmp/mdias/MA5_downloads' exists.[0m
+[36mMA5-DEBUG (install_service.prepare_tmp() in install_service.py::L180): Name of the temporary untar    folder: /tmp/mdias/MA5_fastjet[0m
+[36mMA5-DEBUG (install_service.prepare_tmp() in install_service.py::L181): Name of the temporary download folder: /tmp/mdias/MA5_downloads[0m
+[0mMA5:    Downloading the package ...[0m
+[36mMA5-DEBUG (install_service.check_ma5site() in install_service.py::L397): Testing the access to MadAnalysis 5 website: http://madanalysis.irmp.ucl.ac.be ...[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L365): Attempt 1/3 to access the url[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L382): Info about the url: --------------------------------------------------------[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Date: Mon, 07 Sep 2026 19:10:25 GMT[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Server: Apache/2.4.68 (Debian)[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Cache-Control: max-age=0, no-store[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Expires: Fri, 01 Jan 1999 00:00:00 GMT[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Set-Cookie: trac_form_token=30424e64ae306c6353ad7080; HttpOnly; Path=/[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Set-Cookie: trac_session=3972e874950ee0fd1ba188cb; expires=Sun, 06 Dec 2026 19:10:25 GMT; HttpOnly; Path=/[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Vary: Accept-Encoding[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Connection: close[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Transfer-Encoding: chunked[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Content-Type: text/html;charset=utf-8[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L389): Info about the url: --------------------------------------------------------[0m
+[0mMA5:     - 1/1 http://madanalysis.irmp.ucl.ac.be/raw-attachment/wiki/WikiStart/fastjet-3.4.1.tar.gz ...[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L365): Attempt 1/3 to access the url[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L382): Info about the url: --------------------------------------------------------[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Date: Mon, 07 Sep 2026 19:10:26 GMT[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Server: Apache/2.4.68 (Debian)[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: ETag: W/"anonymous/Wed, 24 May 2023 14:09:36 GMT/False"[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Content-Disposition: attachment[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Content-Length: 2982343[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Last-Modified: Wed, 24 May 2023 14:09:36 GMT[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Set-Cookie: trac_session=bf51e71dda788876bda066d5; expires=Sun, 06 Dec 2026 19:10:26 GMT; HttpOnly; Path=/[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Cache-Control: max-age=0, no-store[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Connection: close[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L388): Info about the url: Content-Type: application/x-tar; charset=utf-8[0m
+[36mMA5-DEBUG (install_service.UrlAccess() in install_service.py::L389): Info about the url: --------------------------------------------------------[0m
+[36mMA5-DEBUG (install_service.wget() in install_service.py::L224): Decoding the size of the remote file...[0m
+[36mMA5-DEBUG (install_service.wget() in install_service.py::L243): -> size=2982343[0m
+[36mMA5-DEBUG (install_service.wget() in install_service.py::L248): No file with the name '/tmp/mdias/MA5_downloads/fastjet.tar.gz' exists locally.[0m
+[36mMA5-DEBUG (install_service.wget() in install_service.py::L285): Downloading the file ...[0m
+             --> Download 8.00K of 2.84M (0.3%)                   --> Download 16.00K of 2.84M (0.6%)                   --> Download 24.00K of 2.84M (0.8%)                   --> Download 32.00K of 2.84M (1.1%)                   --> Download 40.00K of 2.84M (1.4%)                   --> Download 48.00K of 2.84M (1.6%)                   --> Download 56.00K of 2.84M (1.9%)                   --> Download 64.00K of 2.84M (2.2%)                   --> Download 72.00K of 2.84M (2.5%)                   --> Download 80.00K of 2.84M (2.8%)                   --> Download 88.00K of 2.84M (3.0%)                   --> Download 96.00K of 2.84M (3.3%)                   --> Download 104.00K of 2.84M (3.6%)                   --> Download 112.00K of 2.84M (3.9%)                   --> Download 120.00K of 2.84M (4.1%)                   --> Download 128.00K of 2.84M (4.4%)                   --> Download 136.00K of 2.84M (4.7%)                   --> Download 144.00K of 2.84M (4.9%)                   --> Download 152.00K of 2.84M (5.2%)                   --> Download 160.00K of 2.84M (5.5%)                   --> Download 168.00K of 2.84M (5.8%)                   --> Download 176.00K of 2.84M (6.0%)                   --> Download 184.00K of 2.84M (6.3%)                   --> Download 192.00K of 2.84M (6.6%)                   --> Download 200.00K of 2.84M (6.9%)                   --> Download 208.00K of 2.84M (7.1%)                   --> Download 216.00K of 2.84M (7.4%)                   --> Download 224.00K of 2.84M (7.7%)                   --> Download 232.00K of 2.84M (8.0%)                   --> Download 240.00K of 2.84M (8.2%)                   --> Download 248.00K of 2.84M (8.5%)                   --> Download 256.00K of 2.84M (8.8%)                   --> Download 264.00K of 2.84M (9.1%)                   --> Download 272.00K of 2.84M (9.3%)                   --> Download 280.00K of 2.84M (9.6%)                   --> Download 288.00K of 2.84M (9.9%)                   --> Download 296.00K of 2.84M (10.2%)                   --> Download 304.00K of 2.84M (10.4%)                   --> Download 312.00K of 2.84M (10.7%)                   --> Download 320.00K of 2.84M (11.0%)                   --> Download 328.00K of 2.84M (11.3%)                   --> Download 336.00K of 2.84M (11.5%)                   --> Download 344.00K of 2.84M (11.8%)                   --> Download 352.00K of 2.84M (12.1%)                   --> Download 360.00K of 2.84M (12.4%)                   --> Download 368.00K of 2.84M (12.6%)                   --> Download 376.00K of 2.84M (12.9%)                   --> Download 384.00K of 2.84M (13.2%)                   --> Download 392.00K of 2.84M (13.5%)                   --> Download 400.00K of 2.84M (13.7%)                   --> Download 408.00K of 2.84M (14.0%)                   --> Download 416.00K of 2.84M (14.3%)                   --> Download 424.00K of 2.84M (14.6%)                   --> Download 432.00K of 2.84M (14.8%)                   --> Download 440.00K of 2.84M (15.1%)                   --> Download 448.00K of 2.84M (15.4%)                   --> Download 456.00K of 2.84M (15.7%)                   --> Download 464.00K of 2.84M (15.9%)                   --> Download 472.00K of 2.84M (16.2%)                   --> Download 480.00K of 2.84M (16.5%)                   --> Download 488.00K of 2.84M (16.8%)                   --> Download 496.00K of 2.84M (17.0%)                   --> Download 504.00K of 2.84M (17.3%)                   --> Download 512.00K of 2.84M (17.6%)                   --> Download 520.00K of 2.84M (17.9%)                   --> Download 528.00K of 2.84M (18.1%)                   --> Download 536.00K of 2.84M (18.4%)                   --> Download 544.00K of 2.84M (18.7%)                   --> Download 552.00K of 2.84M (18.9%)                   --> Download 560.00K of 2.84M (19.2%)                   --> Download 568.00K of 2.84M (19.5%)                   --> Download 576.00K of 2.84M (19.8%)                   --> Download 584.00K of 2.84M (20.1%)                   --> Download 592.00K of 2.84M (20.3%)                   --> Download 600.00K of 2.84M (20.6%)                   --> Download 608.00K of 2.84M (20.9%)                   --> Download 616.00K of 2.84M (21.1%)                   --> Download 624.00K of 2.84M (21.4%)                   --> Download 632.00K of 2.84M (21.7%)                   --> Download 640.00K of 2.84M (22.0%)                   --> Download 648.00K of 2.84M (22.2%)                   --> Download 656.00K of 2.84M (22.5%)                   --> Download 664.00K of 2.84M (22.8%)                   --> Download 672.00K of 2.84M (23.1%)                   --> Download 680.00K of 2.84M (23.4%)                   --> Download 688.00K of 2.84M (23.6%)                   --> Download 696.00K of 2.84M (23.9%)                   --> Download 704.00K of 2.84M (24.2%)                   --> Download 712.00K of 2.84M (24.4%)                   --> Download 720.00K of 2.84M (24.7%)                   --> Download 728.00K of 2.84M (25.0%)                   --> Download 736.00K of 2.84M (25.3%)                   --> Download 744.00K of 2.84M (25.6%)                   --> Download 752.00K of 2.84M (25.8%)                   --> Download 760.00K of 2.84M (26.1%)                   --> Download 768.00K of 2.84M (26.4%)                   --> Download 776.00K of 2.84M (26.6%)                   --> Download 784.00K of 2.84M (26.9%)                   --> Download 792.00K of 2.84M (27.2%)                   --> Download 800.00K of 2.84M (27.5%)                   --> Download 808.00K of 2.84M (27.7%)                   --> Download 816.00K of 2.84M (28.0%)                   --> Download 824.00K of 2.84M (28.3%)                   --> Download 832.00K of 2.84M (28.6%)                   --> Download 840.00K of 2.84M (28.8%)                   --> Download 848.00K of 2.84M (29.1%)                   --> Download 856.00K of 2.84M (29.4%)                   --> Download 864.00K of 2.84M (29.7%)                   --> Download 872.00K of 2.84M (29.9%)                   --> Download 880.00K of 2.84M (30.2%)                   --> Download 888.00K of 2.84M (30.5%)                   --> Download 896.00K of 2.84M (30.8%)                   --> Download 904.00K of 2.84M (31.0%)                   --> Download 912.00K of 2.84M (31.3%)                   --> Download 920.00K of 2.84M (31.6%)                   --> Download 928.00K of 2.84M (31.9%)                   --> Download 936.00K of 2.84M (32.1%)                   --> Download 944.00K of 2.84M (32.4%)                   --> Download 952.00K of 2.84M (32.7%)                   --> Download 960.00K of 2.84M (33.0%)                   --> Download 968.00K of 2.84M (33.2%)                   --> Download 976.00K of 2.84M (33.5%)                   --> Download 984.00K of 2.84M (33.8%)                   --> Download 992.00K of 2.84M (34.1%)                   --> Download 1000.00K of 2.84M (34.3%)                   --> Download 1008.00K of 2.84M (34.6%)                   --> Download 1016.00K of 2.84M (34.9%)                   --> Download 1.00M of 2.84M (35.2%)                   --> Download 1.01M of 2.84M (35.4%)                   --> Download 1.02M of 2.84M (35.7%)                   --> Download 1.02M of 2.84M (36.0%)                   --> Download 1.03M of 2.84M (36.3%)                   --> Download 1.04M of 2.84M (36.5%)                   --> Download 1.05M of 2.84M (36.8%)                   --> Download 1.05M of 2.84M (37.1%)                   --> Download 1.06M of 2.84M (37.4%)                   --> Download 1.07M of 2.84M (37.6%)                   --> Download 1.08M of 2.84M (37.9%)                   --> Download 1.09M of 2.84M (38.2%)                   --> Download 1.09M of 2.84M (38.5%)                   --> Download 1.10M of 2.84M (38.7%)                   --> Download 1.11M of 2.84M (39.0%)                   --> Download 1.12M of 2.84M (39.3%)                   --> Download 1.12M of 2.84M (39.5%)                   --> Download 1.13M of 2.84M (39.8%)                   --> Download 1.14M of 2.84M (40.1%)                   --> Download 1.15M of 2.84M (40.4%)                   --> Download 1.16M of 2.84M (40.6%)                   --> Download 1.16M of 2.84M (40.9%)                   --> Download 1.17M of 2.84M (41.2%)                   --> Download 1.18M of 2.84M (41.5%)                   --> Download 1.19M of 2.84M (41.8%)                   --> Download 1.20M of 2.84M (42.0%)                   --> Download 1.20M of 2.84M (42.3%)                   --> Download 1.21M of 2.84M (42.6%)                   --> Download 1.22M of 2.84M (42.9%)                   --> Download 1.23M of 2.84M (43.1%)                   --> Download 1.23M of 2.84M (43.4%)                   --> Download 1.24M of 2.84M (43.7%)                   --> Download 1.25M of 2.84M (44.0%)                   --> Download 1.26M of 2.84M (44.2%)                   --> Download 1.27M of 2.84M (44.5%)                   --> Download 1.27M of 2.84M (44.8%)                   --> Download 1.28M of 2.84M (45.0%)                   --> Download 1.29M of 2.84M (45.3%)                   --> Download 1.30M of 2.84M (45.6%)                   --> Download 1.30M of 2.84M (45.9%)                   --> Download 1.31M of 2.84M (46.1%)                   --> Download 1.32M of 2.84M (46.4%)                   --> Download 1.33M of 2.84M (46.7%)                   --> Download 1.34M of 2.84M (47.0%)                   --> Download 1.34M of 2.84M (47.2%)                   --> Download 1.35M of 2.84M (47.5%)                   --> Download 1.36M of 2.84M (47.8%)                   --> Download 1.37M of 2.84M (48.1%)                   --> Download 1.38M of 2.84M (48.3%)                   --> Download 1.38M of 2.84M (48.6%)                   --> Download 1.39M of 2.84M (48.9%)                   --> Download 1.40M of 2.84M (49.2%)                   --> Download 1.41M of 2.84M (49.4%)                   --> Download 1.41M of 2.84M (49.7%)                   --> Download 1.42M of 2.84M (50.0%)                   --> Download 1.43M of 2.84M (50.3%)                   --> Download 1.44M of 2.84M (50.5%)                   --> Download 1.45M of 2.84M (50.8%)                   --> Download 1.45M of 2.84M (51.1%)                   --> Download 1.46M of 2.84M (51.4%)                   --> Download 1.47M of 2.84M (51.6%)                   --> Download 1.48M of 2.84M (51.9%)                   --> Download 1.48M of 2.84M (52.2%)                   --> Download 1.49M of 2.84M (52.5%)                   --> Download 1.50M of 2.84M (52.7%)                   --> Download 1.51M of 2.84M (53.0%)                   --> Download 1.52M of 2.84M (53.3%)                   --> Download 1.52M of 2.84M (53.6%)                   --> Download 1.53M of 2.84M (53.8%)                   --> Download 1.54M of 2.84M (54.1%)                   --> Download 1.55M of 2.84M (54.4%)                   --> Download 1.55M of 2.84M (54.7%)                   --> Download 1.56M of 2.84M (54.9%)                   --> Download 1.57M of 2.84M (55.2%)                   --> Download 1.58M of 2.84M (55.5%)                   --> Download 1.59M of 2.84M (55.8%)                   --> Download 1.59M of 2.84M (56.0%)                   --> Download 1.60M of 2.84M (56.3%)                   --> Download 1.61M of 2.84M (56.6%)                   --> Download 1.62M of 2.84M (56.9%)                   --> Download 1.62M of 2.84M (57.1%)                   --> Download 1.63M of 2.84M (57.4%)                   --> Download 1.64M of 2.84M (57.7%)                   --> Download 1.65M of 2.84M (58.0%)                   --> Download 1.66M of 2.84M (58.2%)                   --> Download 1.66M of 2.84M (58.5%)                   --> Download 1.67M of 2.84M (58.8%)                   --> Download 1.68M of 2.84M (59.1%)                   --> Download 1.69M of 2.84M (59.3%)                   --> Download 1.70M of 2.84M (59.6%)                   --> Download 1.70M of 2.84M (59.9%)                   --> Download 1.71M of 2.84M (60.2%)                   --> Download 1.72M of 2.84M (60.4%)                   --> Download 1.73M of 2.84M (60.7%)                   --> Download 1.73M of 2.84M (61.0%)                   --> Download 1.74M of 2.84M (61.2%)                   --> Download 1.75M of 2.84M (61.5%)                   --> Download 1.76M of 2.84M (61.8%)                   --> Download 1.77M of 2.84M (62.1%)                   --> Download 1.77M of 2.84M (62.4%)                   --> Download 1.78M of 2.84M (62.6%)                   --> Download 1.79M of 2.84M (62.9%)                   --> Download 1.80M of 2.84M (63.2%)                   --> Download 1.80M of 2.84M (63.5%)                   --> Download 1.81M of 2.84M (63.7%)                   --> Download 1.82M of 2.84M (64.0%)                   --> Download 1.83M of 2.84M (64.3%)                   --> Download 1.84M of 2.84M (64.5%)                   --> Download 1.84M of 2.84M (64.8%)                   --> Download 1.85M of 2.84M (65.1%)                   --> Download 1.86M of 2.84M (65.4%)                   --> Download 1.87M of 2.84M (65.7%)                   --> Download 1.88M of 2.84M (65.9%)                   --> Download 1.88M of 2.84M (66.2%)                   --> Download 1.89M of 2.84M (66.5%)                   --> Download 1.90M of 2.84M (66.8%)                   --> Download 1.91M of 2.84M (67.0%)                   --> Download 1.91M of 2.84M (67.3%)                   --> Download 1.92M of 2.84M (67.6%)                   --> Download 1.93M of 2.84M (67.8%)                   --> Download 1.94M of 2.84M (68.1%)                   --> Download 1.95M of 2.84M (68.4%)                   --> Download 1.95M of 2.84M (68.7%)                   --> Download 1.96M of 2.84M (69.0%)                   --> Download 1.97M of 2.84M (69.2%)                   --> Download 1.98M of 2.84M (69.5%)                   --> Download 1.98M of 2.84M (69.8%)                   --> Download 1.99M of 2.84M (70.0%)                   --> Download 2.00M of 2.84M (70.3%)                   --> Download 2.01M of 2.84M (70.6%)                   --> Download 2.02M of 2.84M (70.9%)                   --> Download 2.02M of 2.84M (71.1%)                   --> Download 2.03M of 2.84M (71.4%)                   --> Download 2.04M of 2.84M (71.7%)                   --> Download 2.05M of 2.84M (72.0%)                   --> Download 2.05M of 2.84M (72.2%)                   --> Download 2.06M of 2.84M (72.5%)                   --> Download 2.07M of 2.84M (72.8%)                   --> Download 2.08M of 2.84M (73.1%)                   --> Download 2.09M of 2.84M (73.3%)                   --> Download 2.09M of 2.84M (73.6%)                   --> Download 2.10M of 2.84M (73.9%)                   --> Download 2.11M of 2.84M (74.2%)                   --> Download 2.12M of 2.84M (74.4%)                   --> Download 2.12M of 2.84M (74.7%)                   --> Download 2.13M of 2.84M (75.0%)                   --> Download 2.14M of 2.84M (75.3%)                   --> Download 2.15M of 2.84M (75.5%)                   --> Download 2.16M of 2.84M (75.8%)                   --> Download 2.16M of 2.84M (76.1%)                   --> Download 2.17M of 2.84M (76.4%)                   --> Download 2.18M of 2.84M (76.6%)                   --> Download 2.19M of 2.84M (76.9%)                   --> Download 2.20M of 2.84M (77.2%)                   --> Download 2.20M of 2.84M (77.5%)                   --> Download 2.21M of 2.84M (77.7%)                   --> Download 2.22M of 2.84M (78.0%)                   --> Download 2.23M of 2.84M (78.3%)                   --> Download 2.23M of 2.84M (78.6%)                   --> Download 2.24M of 2.84M (78.8%)                   --> Download 2.25M of 2.84M (79.1%)                   --> Download 2.26M of 2.84M (79.4%)                   --> Download 2.27M of 2.84M (79.7%)                   --> Download 2.27M of 2.84M (79.9%)                   --> Download 2.28M of 2.84M (80.2%)                   --> Download 2.29M of 2.84M (80.5%)                   --> Download 2.30M of 2.84M (80.8%)                   --> Download 2.30M of 2.84M (81.0%)                   --> Download 2.31M of 2.84M (81.3%)                   --> Download 2.32M of 2.84M (81.6%)                   --> Download 2.33M of 2.84M (81.9%)                   --> Download 2.34M of 2.84M (82.1%)                   --> Download 2.34M of 2.84M (82.4%)                   --> Download 2.35M of 2.84M (82.7%)                   --> Download 2.36M of 2.84M (83.0%)                   --> Download 2.37M of 2.84M (83.2%)                   --> Download 2.38M of 2.84M (83.5%)                   --> Download 2.38M of 2.84M (83.8%)                   --> Download 2.39M of 2.84M (84.0%)                   --> Download 2.40M of 2.84M (84.3%)                   --> Download 2.41M of 2.84M (84.6%)                   --> Download 2.41M of 2.84M (84.9%)                   --> Download 2.42M of 2.84M (85.2%)                   --> Download 2.43M of 2.84M (85.4%)                   --> Download 2.44M of 2.84M (85.7%)                   --> Download 2.45M of 2.84M (86.0%)                   --> Download 2.45M of 2.84M (86.2%)                   --> Download 2.46M of 2.84M (86.5%)                   --> Download 2.47M of 2.84M (86.8%)                   --> Download 2.48M of 2.84M (87.1%)                   --> Download 2.48M of 2.84M (87.3%)                   --> Download 2.49M of 2.84M (87.6%)                   --> Download 2.50M of 2.84M (87.9%)                   --> Download 2.51M of 2.84M (88.2%)                   --> Download 2.52M of 2.84M (88.5%)                   --> Download 2.52M of 2.84M (88.7%)                   --> Download 2.53M of 2.84M (89.0%)                   --> Download 2.54M of 2.84M (89.3%)                   --> Download 2.55M of 2.84M (89.5%)                   --> Download 2.55M of 2.84M (89.8%)                   --> Download 2.56M of 2.84M (90.1%)                   --> Download 2.57M of 2.84M (90.4%)                   --> Download 2.58M of 2.84M (90.7%)                   --> Download 2.59M of 2.84M (90.9%)                   --> Download 2.59M of 2.84M (91.2%)                   --> Download 2.60M of 2.84M (91.5%)                   --> Download 2.61M of 2.84M (91.7%)                   --> Download 2.62M of 2.84M (92.0%)                   --> Download 2.62M of 2.84M (92.3%)                   --> Download 2.63M of 2.84M (92.6%)                   --> Download 2.64M of 2.84M (92.8%)                   --> Download 2.65M of 2.84M (93.1%)                   --> Download 2.66M of 2.84M (93.4%)                   --> Download 2.66M of 2.84M (93.7%)                   --> Download 2.67M of 2.84M (93.9%)                   --> Download 2.68M of 2.84M (94.2%)                   --> Download 2.69M of 2.84M (94.5%)                   --> Download 2.70M of 2.84M (94.8%)                   --> Download 2.70M of 2.84M (95.0%)                   --> Download 2.71M of 2.84M (95.3%)                   --> Download 2.72M of 2.84M (95.6%)                   --> Download 2.73M of 2.84M (95.9%)                   --> Download 2.73M of 2.84M (96.1%)                   --> Download 2.74M of 2.84M (96.4%)                   --> Download 2.75M of 2.84M (96.7%)                   --> Download 2.76M of 2.84M (97.0%)                   --> Download 2.77M of 2.84M (97.2%)                   --> Download 2.77M of 2.84M (97.5%)                   --> Download 2.78M of 2.84M (97.8%)                   --> Download 2.79M of 2.84M (98.1%)                   --> Download 2.80M of 2.84M (98.3%)                   --> Download 2.80M of 2.84M (98.6%)                   --> Download 2.81M of 2.84M (98.9%)                   --> Download 2.82M of 2.84M (99.2%)                   --> Download 2.83M of 2.84M (99.4%)                   --> Download 2.84M of 2.84M (99.7%)                   --> Download 2.84M of 2.84M (100.0%)                   --> Download 2.84M of 2.84M (100.0%)                   --> Download 2.84M of 2.84M (100.0%)      
+[0mMA5:    Unpacking the package ...[0m
+[36mMA5-DEBUG (install_service.untar() in install_service.py::L119): shell command: tar xzf fastjet.tar.gz -C /tmp/mdias/MA5_fastjet[0m
+[36mMA5-DEBUG (install_service.untar() in install_service.py::L120): exected dir: /tmp/mdias/MA5_downloads[0m
+[36mMA5-DEBUG (install_service.untar() in install_service.py::L139): content of /tmp/mdias/MA5_fastjet: ['/tmp/mdias/MA5_fastjet/fastjet-3.4.1'][0m
+[0mMA5:    Configuring the package ...[0m
+[36mMA5-DEBUG (install_fastjet.Configure() in install_fastjet.py::L115): shell command: ./configure --prefix=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet[0m
+[0mMA5:    Building the package ...[0m
+[36mMA5-DEBUG (install_fastjet.Build() in install_fastjet.py::L132): shell command: make -j8[0m
+[0mMA5:    Transfering the data from the temporary to the definitive folder ...[0m
+[36mMA5-DEBUG (install_fastjet.Install() in install_fastjet.py::L149): shell command: make install[0m
+[0mMA5:    Checking the installation ...[0m
+[0mMA5:    Installation complete.[0m
+[0mMA5:    Elapsed time = 1 minute 56 seconds[0m
+[0mMA5:    => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5: [0m
+[0mMA5: Delphes installation has been vetoed. Skipping it.[0m
+[0mMA5: DelphesMA5tune installation has been vetoed. Skipping it.[0m
+[0mMA5: Platform: Linux 7.0.0-28-generic [32m[Linux mode][0m[0m
+[0mMA5: Reading user settings ...[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L277): Opening the file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/input/installation_options.dat[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L285): Lines to interpret: [0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L295):   - zlib_includes = /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L295):   - zlib_libs = /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib[0m
+[36mMA5-DEBUG (user_info.ReadUserOptions() in user_info.py::L308): Closing the file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/madanalysis/input/installation_options.dat[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L182): Web access[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L188):   enable[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L189): [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L194): Temporary folder[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L221):   Variable $TMPDIR:         [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L221):   Variable $TMP:            [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L221):   Variable $TEMP:           [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L243): Check if the folder /tmp/mdias exists ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L245): -> found[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L258): temporary folder will be used for MA5: /tmp/mdias[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L262): [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L265): Download dir[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L288): Check if the folder /tmp/mdias/MA5_downloads exists ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L290): -> found[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L303): download folder will be used for MA5: /tmp/mdias/MA5_downloads[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L307): [0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L310): Text editor[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L311): Look for the global variable $EDITOR ...[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L319): -> variable not found. VI editor is set by default.[0m
+[36mMA5-DEBUG (checkup.CheckSessionInfo() in checkup.py::L323): [0m
+[0mMA5: Checking mandatory packages:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package python[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Python                   [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package gpp[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - GNU GCC g++              [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package make[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - GNU Make                 [32m[OK][0m[0m
+[0mMA5: Checking optional packages devoted to data processing:[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package zlib[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_zlib.IsItVetoed() in detect_zlib.py::L83): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_zlib.ManualDetection() in detect_zlib.py::L149): User setting: zlib include path is specified.[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zlib.h ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zlib.h[0m
+[36mMA5-DEBUG (detect_zlib.ManualDetection() in detect_zlib.py::L160): User setting: zlib lib path is specified.[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L208): look for pattern /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.* ...[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1.3.2[0m
+[36mMA5-DEBUG (detect_zlib.LookForPattern() in detect_zlib.py::L212): -> found: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Zlib                     [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package fastjet[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_fastjet.IsItVetoed() in detect_fastjet.py::L58): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_fastjet.ToolsDetection() in detect_fastjet.py::L95): Look for FastJet in the folder here:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/bin/fastjet-config ...[0m
+[36mMA5-DEBUG (detect_fastjet.ToolsDetection() in detect_fastjet.py::L97): -> found[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_fastjet.ExtractInfo() in detect_fastjet.py::L153): Trying to get library and header paths ...[0m
+[36mMA5-DEBUG (detect_fastjet.ExtractInfo() in detect_fastjet.py::L163):   Lib flags:     -Wl,-rpath,/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/lib -L/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/lib -lfastjettools -lfastjet -lm -lfastjetplugins -lsiscone_spherical -lsiscone[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - FastJet                  [32m[OK][0m[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L49): ------------------------------------------------------[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L51): Detect package root[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L155): Is there a veto? ...[0m
+[36mMA5-DEBUG (detect_root.IsItVetoed() in detect_root.py::L63): no user veto[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L187): Detection of the package in the location specified by the user ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L212): Detection of the package in the "tools" folder ...[0m
+[36mMA5-DEBUG (detect_root.ToolsDetection() in detect_root.py::L96): Detecting root-config in the tools folder ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L241): Try to detect automatically the package ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L281): Extract more informations related to the package ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L154): Trying to get library and header paths ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L173): -> root-config found[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L174): -> root version: 6.36.04[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L175): -> root header  folder: /snap/root-framework/954/usr/local/include[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L176): -> root library folder: /snap/root-framework/954/usr/local/lib[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L182): Try to find /snap/root-framework/954/usr/local/lib/libCore.so ...[0m
+[36mMA5-DEBUG (detect_root.ExtractInfo() in detect_root.py::L182): Try to find /snap/root-framework/954/usr/local/include/TH1F.h ...[0m
+[36mMA5-DEBUG (detect_manager.Execute() in detect_manager.py::L299): Saving informations ...[0m
+[0mMA5:      - Root                     [32m[OK][0m[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L333): Delphes[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L398): Look for Delphes in the folder /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools ...[0m
+[36mMA5-DEBUG (config_checker.checkDelphes() in config_checker.py::L428): -> not found[0m
+[0mMA5:      - Delphes                  [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L534): Delphes-MA5tune[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L599): Look for DelphesMA5tune in the folder /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools...[0m
+[36mMA5-DEBUG (config_checker.checkDelphesMA5tune() in config_checker.py::L629): -> not found[0m
+[0mMA5:      - Delphes-MA5tune          [35m[DISABLED][0m[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /snap/root-framework/954/usr/local/bin/root-config[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin/root-config ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/bin/fastjet-config[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin/fastjet-config ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.so ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.a ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1.3.2[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.so.1.3.2 ...[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L417): Creating symbolic link from /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1[0m
+[36mMA5-DEBUG (checkup.CreateSymLink() in checkup.py::L418):                        to   /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib/libz.so.1 ...[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L557): -------- BEGIN: set environment variables --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L562): before PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin:/snap/root-framework/current/usr/local/bin:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/bin:/snap/root-framework/current/usr/local/bin:/usr/local/geant4/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L563): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L571): after PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin:/snap/root-framework/954/usr/local/bin:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/bin:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Bin:/snap/root-framework/current/usr/local/bin:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/bin:/snap/root-framework/current/usr/local/bin:/usr/local/geant4/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin::[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L572): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L577): before LD_LIBRARY_PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/usr/local/geant4/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:.:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/../Pythia8/LHAPDF/lib/:[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L578): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L586): after LD_LIBRARY_PATH=/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib:/snap/root-framework/954/usr/local/lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/fastjet/lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/ExternalSymLink/Lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/usr/local/geant4/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:.:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/pythia8317/lib:/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_1_Pythia8_List/../Pythia8/LHAPDF/lib/::[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L587): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L592): before DYLD_LIBRARY_PATH=/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L595): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L604): after DYLD_LIBRARY_PATH=/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib:/snap/root-framework/current/usr/local/lib[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L607): --------[0m
+[36mMA5-DEBUG (checkup.SetFolder() in checkup.py::L619): -------- END: set environment variables --------[0m
+[0mMA5: Checking the MadAnalysis 5 core library:[0m
+[36mMA5-DEBUG (library_builder.checkMA5() in library_builder.py::L46): -> looking for folder: /tools/SampleAnalyzer/Lib[0m
+[36mMA5-DEBUG (library_builder.checkMA5() in library_builder.py::L61): -> looking for file: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib/libprocess_for_ma5.so[0m
+[36mMA5-DEBUG (library_builder.checkMA5() in library_builder.py::L63): 	-> file /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Lib/libprocess_for_ma5.so not found.[0m
+[0mMA5:   => First use of MadAnalysis (or the library is missing).[0m
+[0mMA5: [0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:                 Building SampleAnalyzer libraries     [0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    How many cores for the compiling? default = max = 8[0m
+[0mMA5:    => Number of cores used for the compilation = 8[0m
+[0mMA5:    Writing the setup files ...[0m
+[0mMA5:    Writing all the Makefiles ...[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 1/11 - test program: SampleAnalyzer configuration[0m
+[0mMA5:      - Cleaning the project before building the test program ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Configuration/mrproper.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the test program ...[0m
+[0mMA5:      - Checking that the test program is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the test program ...[0m
+[0mMA5:      - Running the test program ...[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L509): Command: ./PortabilityCheckup[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L513): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/PortabilityCheckup.log[0m
+[0mMA5:      - Checking the program output...[0m
+[36mMA5-DEBUG (library_writer.CheckRunConfiguration() in library_writer.py::L574): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/PortabilityCheckup.log[0m
+[36mMA5-DEBUG (library_writer.CheckRunConfiguration() in library_writer.py::L593): Analyzing output file: OK -> Begin Stamp found[0m
+[36mMA5-DEBUG (library_writer.CheckRunConfiguration() in library_writer.py::L599): Analyzing output file: OK -> Successful test found[0m
+[36mMA5-DEBUG (library_writer.CheckRunConfiguration() in library_writer.py::L596): Analyzing output file: OK -> Begin Stamp found[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 2/11 - library: SampleAnalyzer commons[0m
+[0mMA5:      - Cleaning the project before building the library ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Commons/mrproper.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the library ...[0m
+[0mMA5:      - Checking that the library is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the library ...[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 3/11 - test program: SampleAnalyzer commons[0m
+[0mMA5:      - Cleaning the project before building the test program ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Test//mrproper_commons.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_commons[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_commons[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the test program ...[0m
+[0mMA5:      - Checking that the test program is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the test program ...[0m
+[0mMA5:      - Running the test program ...[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L509): Command: ./TestCommons[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L513): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestCommons.log[0m
+[0mMA5:      - Checking the program output...[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L530): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestCommons.log[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L548): Analyzing output file: OK -> Begin Stamp found[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L550): Analyzing output file: OK -> End Stamp[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 4/11 - library: interface to zlib[0m
+[0mMA5:      - Cleaning the project before building the library ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Interfaces/mrproper_zlib.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_zlib[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_zlib[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the library ...[0m
+[0mMA5:      - Checking that the library is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the library ...[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 5/11 - test program: interface to zlib[0m
+[0mMA5:      - Cleaning the project before building the test program ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Test//mrproper_zlib.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_zlib[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_zlib[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the test program ...[0m
+[0mMA5:      - Checking that the test program is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the test program ...[0m
+[0mMA5:      - Running the test program ...[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L509): Command: ./TestZlib[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L513): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestZlib.log[0m
+[0mMA5:      - Checking the program output...[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L530): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestZlib.log[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L548): Analyzing output file: OK -> Begin Stamp found[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L550): Analyzing output file: OK -> End Stamp[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 6/11 - library: interface to FastJet[0m
+[0mMA5:      - Cleaning the project before building the library ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Interfaces/mrproper_fastjet.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_fastjet[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_fastjet[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the library ...[0m
+[0mMA5:      - Checking that the library is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the library ...[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 7/11 - test program: interface to Fastjet[0m
+[0mMA5:      - Cleaning the project before building the test program ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Test//mrproper_fastjet.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_fastjet[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_fastjet[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the test program ...[0m
+[0mMA5:      - Checking that the test program is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the test program ...[0m
+[0mMA5:      - Running the test program ...[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L509): Command: ./TestFastjet[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L513): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestFastjet.log[0m
+[0mMA5:      - Checking the program output...[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L530): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestFastjet.log[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L548): Analyzing output file: OK -> Begin Stamp found[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L550): Analyzing output file: OK -> End Stamp[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 8/11 - library: interface to Root[0m
+[0mMA5:      - Cleaning the project before building the library ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Interfaces/mrproper_root.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_root[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_root[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the library ...[0m
+[0mMA5:      - Checking that the library is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the library ...[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 9/11 - test program: interface to Root[0m
+[0mMA5:      - Cleaning the project before building the test program ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Test//mrproper_root.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_root[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_root[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the test program ...[0m
+[0mMA5:      - Checking that the test program is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the test program ...[0m
+[0mMA5:      - Running the test program ...[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L509): Command: ./TestRoot[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L513): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestRoot.log[0m
+[0mMA5:      - Checking the program output...[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L530): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestRoot.log[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L548): Analyzing output file: OK -> Begin Stamp found[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L550): Analyzing output file: OK -> End Stamp[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 10/11 - library: SampleAnalyzer core[0m
+[0mMA5:      - Cleaning the project before building the library ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Process/mrproper.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the library ...[0m
+[0mMA5:      - Checking that the library is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the library ...[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Component 11/11 - test program: SampleAnalyzer core[0m
+[0mMA5:      - Cleaning the project before building the test program ...[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L476): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Test//mrproper_process.log[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L487): Makefile: Makefile_process[0m
+[36mMA5-DEBUG (library_writer.MrProper() in library_writer.py::L491): Command: make mrproper --file=Makefile_process[0m
+[0mMA5:      - Compiling the source files ...[0m
+[0mMA5:      - Linking the test program ...[0m
+[0mMA5:      - Checking that the test program is properly built ...[0m
+[0mMA5:      - Cleaning the project after building the test program ...[0m
+[0mMA5:      - Running the test program ...[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L509): Command: ./TestSampleAnalyzer /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Test/Process/dummy_list.txt[0m
+[36mMA5-DEBUG (library_writer.Run() in library_writer.py::L513): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestSampleAnalyzer.log[0m
+[0mMA5:      - Checking the program output...[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L530): LogFile: /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/madanalysis5/madanalysis5/tools/SampleAnalyzer/Bin/TestSampleAnalyzer.log[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L548): Analyzing output file: OK -> Begin Stamp found[0m
+[36mMA5-DEBUG (library_writer.CheckRun() in library_writer.py::L550): Analyzing output file: OK -> End Stamp[0m
+[0mMA5:       => Status: [32m[OK][0m[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5:    Elapsed time = 1 minute 1 second[0m
+[0mMA5:    **********************************************************[0m
+[0mMA5: [0m
+[0mMA5: Checking the MadAnalysis 5 core library:[0m
+[0mMA5:   => MadAnalysis libraries found.[0m
+[0mMA5:   => MadAnalysis test program works.[0m
+>> Successful installation of MadAnalysis5.
+INSTALLATION STATUS: SUCCESS

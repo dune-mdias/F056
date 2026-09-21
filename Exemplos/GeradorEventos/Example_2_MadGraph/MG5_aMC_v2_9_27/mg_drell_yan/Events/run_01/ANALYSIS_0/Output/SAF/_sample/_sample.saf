@@ -1,0 +1,19 @@
+<SAFheader>
+</SAFheader>
+
+<SampleGlobalInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+8.410400e+02   1.834791e+00   10000          8.410400e+06   0.000000e+00   
+</SampleGlobalInfo>
+
+<FileInfo>
+"/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/mg_drell_yan/Events/run_01/unweighted_events.lhe" # file 1 / 1
+</FileInfo>
+
+<SampleDetailedInfo>
+# xsection     xsection_error nevents        sum_weight+    sum_weight-    
+8.410400e+02   1.834791e+00   10000          8.410400e+06   0.000000e+00    # file 1 / 1
+</SampleDetailedInfo>
+
+<SAFfooter>
+</SAFfooter>

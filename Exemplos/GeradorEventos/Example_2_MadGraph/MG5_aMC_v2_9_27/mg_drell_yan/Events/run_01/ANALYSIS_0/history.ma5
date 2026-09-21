@@ -1,0 +1,4 @@
+set main.currentdir = /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/mg_drell_yan/Events/run_01
+import unweighted_events.lhe as sample
+define e = e+ e-
+plot PT(e+[1])

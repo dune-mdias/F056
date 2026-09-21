@@ -1,0 +1,14 @@
+8
+4
+quit
+import unweighted_events.lhe as sample
+define e = e+ e-
+plot PT(e+[1])
+submit
+quit
+import ../mg_drell_yan/Events/run_01/unweighted_events.lhe as mysample
+define mu=mu+ mu-
+plot M(mu+ mu-)
+submit
+open
+quit

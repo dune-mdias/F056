@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+
+<!-- template name: sourceid-choose-idp-adapter-form-template.html -->
+
+
+<!-- FNAL Change -->
+<!-- FNAL Change End -->
+
+<html lang="en" dir="ltr">
+<head>
+    <title>Select Authentication System</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <base href="https://pingprod.fnal.gov/"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge" />
+<!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'nonce-S6ykT5kqy33SmSzE';" /> -->
+
+    <!-- FNAL Change -->
+        <!--    <link rel="stylesheet" type="text/css" href="assets/css/main.css"/> -->
+        <link rel="stylesheet" type="text/css" href="assets/css/mainfnal.css"/>
+        <!-- FNAL Change End -->
+
+</head>
+<!--     <link rel="stylesheet" media="all" type="text/css" href="assets/css/main.css" /> -->
+<body>
+    <div class="ping-container">
+        <!-- 
+        if there is a logo present in the 'company-logo' container,
+        then 'has-logo' class should be added to 'ping-header' container.
+        -->
+        <div class="ping-header">
+
+             <!-- FNAL Change -->
+            <div class="has-logo">
+                <span class="company-logo"><img src="../files/flogo3.png" alt="Fermilab" style="max-width:100%;"></span>
+                <!-- Select Authentication System -->
+            </div>
+            <!-- FNAL Change End -->
+            
+        </div><!-- .ping-header -->
+        
+        <div class="ping-body-container">
+            <form method="GET" action="/idp/LceKZdJLGS/resumeSAML20/idp/SSO.ping">
+
+                <div class="firstcut">
+                    <div class="ping-messages">
+                        <div>
+                            Please select an authentication system to verify your identity.
+                        </div>
+                    </div>
+                    <div class="ping-input-container ping-input-label">
+                        <label class="input-select">
+                    <!-- FNAL Change Start -->
+                    <!-- <span class="label-text">
+                    Select authentication system:
+                    </span> -->
+                    <!-- FNAL Change End -->
+                            <div class="input-container">
+                                <div class="wrapper">
+                                    <select name="pfidpadapterid">
+                                                                                    <option value="ad..FormBased">a. Services Username and Password</option>
+                                                                                        <!-- FNAL Change -->
+                                                <!-- External Federation IdPs have a "x. " prefix. Check to see if there is one and, if so, set No to Yes -->
+                                                                                                <!-- FNAL Change End -->
+                                                                                    <option value="ad..KrbOrFormForWin">b. On-site Fermi Windows System</option>
+                                                                                        <!-- FNAL Change -->
+                                                <!-- External Federation IdPs have a "x. " prefix. Check to see if there is one and, if so, set No to Yes -->
+                                                                                                <!-- FNAL Change End -->
+                                                                                    <option value="ad..KrbOrForm">c. Kerberos (FERMI or FNAL)</option>
+                                                                                        <!-- FNAL Change -->
+                                                <!-- External Federation IdPs have a "x. " prefix. Check to see if there is one and, if so, set No to Yes -->
+                                                                                                <!-- FNAL Change End -->
+                                                                                    <option value="ad..CILogonForm">d. Fermilab CILogon Certificate</option>
+                                                                                        <!-- FNAL Change -->
+                                                <!-- External Federation IdPs have a "x. " prefix. Check to see if there is one and, if so, set No to Yes -->
+                                                                                                <!-- FNAL Change End -->
+                                                                            </select>
+                                </div>
+                        </div>
+                        </label>
+                    </div>
+                    <!-- FNAL Change Change checked to unchecked -->
+                     <label class="remember-selection">
+                        <div class="ping-checkbox-container stacked">
+                            <input type="checkbox" name="rememberChoice" value="true" unchecked />
+                            <div class="icon"> </div>
+                            Remember selection
+                        </div>
+                    </label>
+                </div>
+                <!-- FNAL change start -->
+                     <p>&nbsp;</p>
+                     <!-- FNAL change end -->
+                <div class="ping-buttons">
+                    <input type="submit" class="ping-button normal" value="Continue" title="Continue"/>
+                </div>
+                <div class="hidden-field">
+                                    </div>
+            </form>
+	    <!-- </div> --><!-- .ping-body-container -->
+        
+<!--        <div class="ping-footer-container">
+            <div class="ping-footer">
+                <div class="ping-credits"></div>
+            <div class="ping-copyright">© Copyright 2024 Ping Identity. All rights reserved.</div>
+	    </div> --> <!-- .ping-footer -->
+	    <!-- </div> --> <!-- .ping-footer-container -->
+        
+    </div><!-- .ping-container -->
+    
+    <!-- FNAL Change -->
+            <div class="fnal-choose">
+                <a href="https://fermi.servicenowservices.com/kb_view_customer.do?sysparm_article=KB0012786"   target="_blank"><strong><u>Help me choose!</u></strong></a> 
+            </div>
+            <!-- Message source is in PingFedInstallDir/pingfederate/server/default/conf/language-packs/pingfederate-messages.properties -->
+            <!-- PingFederate must be restarted to pick up any changes in this file -->
+            <div class="fnal-instructions">
+                <p><strong><span style="font-weight:bold">NOTICE TO USERS</span></strong></p>
+                <p>This is a Federal computer (and/or it is directly connected to a Fermilab local network system) that is the property of the United States Government. It is for authorized use only. Users (authorized or unauthorized) have no explicit or implicit expectation of privacy.</p>
+                <p>Any or all uses of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected, and disclosed to authorized site, Department of Energy, and law enforcement personnel, as well as authorized officials of other agencies, both domestic and foreign. By using this system, the user consents to such interception, monitoring, recording, copying, auditing, inspection, and disclosure at the discretion of authorized site or Department of Energy personnel.</p>
+                <p>Unauthorized or improper use of this system may result in administrative disciplinary action and civil and criminal penalties.By continuing to use this system you indicate your awareness of and consent to these terms and conditions of use. LOG OFF IMMEDIATELY if you do not agree to the conditions stated in this warning.</p>
+                <p>Fermilab policy and rules for computing, including appropriate use, may be found at <a href="/files/Fermilab_Policy_on_Computing.pdf" target="blank">http://www.fnal.gov/cd/main/cpolicy.html</a>.</p>
+                <hr>
+                <!-- If an external IdP was detected, add the link for external users -->
+                                <!-- SSO Instructions -->
+                <p>You can choose any of the following options to access an SSO-enabled application</p>
+                <p><span style="font-weight:bold">Services Username and Password</span> - Default</p>
+                <span style="font-weight:bold">On-site Fermi Windows system</span> - Recommended for users who
+                <ol class="fnal">
+                    <li>are <em>on-site</em> (or logged in to VPN) <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>use a Windows computer in the FERMI domain (this includes the vast majority of Fermilab-owned Windows computers) <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>use an Internet Explorer, Edge or Chrome browser</li>
+                </ol>
+                <br>
+                <span style="font-weight:bold">Kerberos (FERMI or FNAL)</span> - Recommended for users who
+                <ol class="fnal">
+                    <li>are <em>on-site</em> (or logged in to VPN) <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>use a Mac or Linux/Unix computer <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>use a browser <a href="https://fermi.servicenowservices.com/kb_view.do?sysparm_article=KB0012670" target="blank">configured for Kerberos authentication</a> <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>have a valid Kerberos ticket from either the FNAL.GOV or the FERMI.WIN.FNAL.GOV realm</li>
+                </ol>
+                <br>
+             <!-- FNAL Change -->
+             <!-- Remove instructions for discontinued CILogon Adapter -->
+               <!---- <span style="font-weight:bold">Fermilab CILogon certificate</span> - Recommended for users who
+                <ol class="fnal">
+                    <li>use a password or otherwise protected device or computer, which is not shared with others <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>use any browser on any operating system, including mobile <span style='font-style: italic; text-decoration: underline;'>and</span></li>
+                    <li>have a <a href="https://fermi.servicenowservices.com/kb_view.do?sysparm_article=KB0013239" target="blank">CILogon Basic CA certificate imported in your browser</a> that was obtained using Fermilab credentials</li>
+                </ol>-->
+            <!-- FNAL Change End -->
+            </div>
+            <div class="fnal-disclaimer">
+                Fermilab <a href=http://www.fnal.gov/pub/disclaim.html>Disclaimer</a>
+            </div>    
+            <!-- FNAL Change End -->
+         </div><!-- .ping-container -->
+        <!-- FNAL Change -->
+            <div class="ping-footer-container">
+                <!--
+                <div class="ping-footer">
+                    <div class="ping-credits"></div>
+                    <div class="ping-copyright">© Copyright 2024 Ping Identity. All rights reserved.</div>
+                </div> --> <!-- .ping-footer -->
+            </div> <!-- .ping-footer-container -->
+        <!-- FNAL Change End -->    
+    </body>
+</html>

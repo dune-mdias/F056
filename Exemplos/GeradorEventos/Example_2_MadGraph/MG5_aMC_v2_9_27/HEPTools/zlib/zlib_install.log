@@ -1,0 +1,371 @@
+ Set environment variables
+ Unpack zlib
+zlib-1.3.2/
+zlib-1.3.2/zutil.h
+zlib-1.3.2/inftrees.h
+zlib-1.3.2/inflate.c
+zlib-1.3.2/CMakeLists.txt
+zlib-1.3.2/zlib.map
+zlib-1.3.2/zlib.pc.cmakein
+zlib-1.3.2/LICENSE
+zlib-1.3.2/zlib.3.pdf
+zlib-1.3.2/test/
+zlib-1.3.2/test/find_package_no_components_test/
+zlib-1.3.2/test/CMakeLists.txt
+zlib-1.3.2/test/infcover.c
+zlib-1.3.2/test/find_package_wrong_components_test/
+zlib-1.3.2/test/find_package_wrong_components_test.cmake.in
+zlib-1.3.2/test/find_package_test.cmake.in
+zlib-1.3.2/test/example.c
+zlib-1.3.2/test/find_package_no_components_test.cmake.in
+zlib-1.3.2/test/minigzip.c
+zlib-1.3.2/test/add_subdirectory_exclude_test.cmake.in
+zlib-1.3.2/test/add_subdirectory_test.cmake.in
+zlib-1.3.2/configure
+zlib-1.3.2/compress.c
+zlib-1.3.2/zlib.3
+zlib-1.3.2/ChangeLog
+zlib-1.3.2/deflate.c
+zlib-1.3.2/qnx/
+zlib-1.3.2/qnx/package.qpg
+zlib-1.3.2/msdos/
+zlib-1.3.2/msdos/Makefile.bor
+zlib-1.3.2/msdos/Makefile.msc
+zlib-1.3.2/msdos/Makefile.emx
+zlib-1.3.2/msdos/Makefile.dj2
+zlib-1.3.2/msdos/Makefile.tc
+zlib-1.3.2/inffixed.h
+zlib-1.3.2/Makefile
+zlib-1.3.2/FAQ
+zlib-1.3.2/zlibConfig.cmake.in
+zlib-1.3.2/gzread.c
+zlib-1.3.2/os400/
+zlib-1.3.2/os400/zlibfree.rpgle
+zlib-1.3.2/os400/README400
+zlib-1.3.2/os400/zlibfixed.rpgle
+zlib-1.3.2/os400/make.sh
+zlib-1.3.2/os400/bndsrc
+zlib-1.3.2/zconf.h.in
+zlib-1.3.2/trees.h
+zlib-1.3.2/README-cmake.md
+zlib-1.3.2/inffast.h
+zlib-1.3.2/treebuild.xml
+zlib-1.3.2/contrib/
+zlib-1.3.2/contrib/ada/
+zlib-1.3.2/contrib/ada/buffer_demo.adb
+zlib-1.3.2/contrib/ada/CMakeLists.txt
+zlib-1.3.2/contrib/ada/zlib-streams.ads
+zlib-1.3.2/contrib/ada/cmake/
+zlib-1.3.2/contrib/ada/cmake/static_link_helper.cmake
+zlib-1.3.2/contrib/ada/cmake/binder_helper.cmake
+zlib-1.3.2/contrib/ada/cmake/compile_helper.cmake
+zlib-1.3.2/contrib/ada/cmake/shared_link_helper.cmake
+zlib-1.3.2/contrib/ada/cmake/exe_link_helper.cmake
+zlib-1.3.2/contrib/ada/cmake/Modules/
+zlib-1.3.2/contrib/ada/cmake/Modules/CMakeADAInformation.cmake
+zlib-1.3.2/contrib/ada/cmake/Modules/CMakeDetermineADACompiler.cmake
+zlib-1.3.2/contrib/ada/cmake/Modules/CMakeADACompiler.cmake.in
+zlib-1.3.2/contrib/ada/cmake/Modules/CMakeTestADACompiler.cmake
+zlib-1.3.2/contrib/ada/zlib-thin.ads
+zlib-1.3.2/contrib/ada/zlib.adb
+zlib-1.3.2/contrib/ada/read.adb
+zlib-1.3.2/contrib/ada/mtest.adb
+zlib-1.3.2/contrib/ada/test.adb
+zlib-1.3.2/contrib/ada/zlib.gpr
+zlib-1.3.2/contrib/ada/zlib-thin.adb
+zlib-1.3.2/contrib/ada/zlib-streams.adb
+zlib-1.3.2/contrib/ada/zlib.ads
+zlib-1.3.2/contrib/ada/readme.txt
+zlib-1.3.2/contrib/pascal/
+zlib-1.3.2/contrib/pascal/example.pas
+zlib-1.3.2/contrib/pascal/zlibpas.pas
+zlib-1.3.2/contrib/pascal/readme.txt
+zlib-1.3.2/contrib/pascal/zlibd32.mak
+zlib-1.3.2/contrib/dotzlib/
+zlib-1.3.2/contrib/dotzlib/DotZLib.build
+zlib-1.3.2/contrib/dotzlib/DotZLib/
+zlib-1.3.2/contrib/dotzlib/DotZLib/GZipStream.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/CodecBase.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/CircularBuffer.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/AssemblyInfo.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/UnitTests.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/DotZLib.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/ChecksumImpl.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/DotZLib.csproj
+zlib-1.3.2/contrib/dotzlib/DotZLib/Deflater.cs
+zlib-1.3.2/contrib/dotzlib/DotZLib/Inflater.cs
+zlib-1.3.2/contrib/dotzlib/LICENSE_1_0.txt
+zlib-1.3.2/contrib/dotzlib/DotZLib.chm
+zlib-1.3.2/contrib/dotzlib/readme.txt
+zlib-1.3.2/contrib/dotzlib/DotZLib.sln
+zlib-1.3.2/contrib/CMakeLists.txt
+zlib-1.3.2/contrib/crc32vx/
+zlib-1.3.2/contrib/crc32vx/CMakeLists.txt
+zlib-1.3.2/contrib/crc32vx/crc32_vx_hooks.h
+zlib-1.3.2/contrib/crc32vx/README
+zlib-1.3.2/contrib/crc32vx/crc32_vx.c
+zlib-1.3.2/contrib/vstudio/
+zlib-1.3.2/contrib/vstudio/readme.txt
+zlib-1.3.2/contrib/minizip/
+zlib-1.3.2/contrib/minizip/skipset.h
+zlib-1.3.2/contrib/minizip/minizipConfig.cmake.in
+zlib-1.3.2/contrib/minizip/configure.ac
+zlib-1.3.2/contrib/minizip/MiniZip64_Changes.txt
+zlib-1.3.2/contrib/minizip/CMakeLists.txt
+zlib-1.3.2/contrib/minizip/unzip.c
+zlib-1.3.2/contrib/minizip/test/
+zlib-1.3.2/contrib/minizip/test/CMakeLists.txt
+zlib-1.3.2/contrib/minizip/test/find_package_wrong_components_test.cmake.in
+zlib-1.3.2/contrib/minizip/test/find_package_test.cmake.in
+zlib-1.3.2/contrib/minizip/test/find_package_no_components_test.cmake.in
+zlib-1.3.2/contrib/minizip/test/add_subdirectory_exclude_test.cmake.in
+zlib-1.3.2/contrib/minizip/test/add_subdirectory_test.cmake.in
+zlib-1.3.2/contrib/minizip/test/test_helper.cm
+zlib-1.3.2/contrib/minizip/minizip.pc.txt
+zlib-1.3.2/contrib/minizip/zip.c
+zlib-1.3.2/contrib/minizip/iowin32.h
+zlib-1.3.2/contrib/minizip/Makefile
+zlib-1.3.2/contrib/minizip/ioapi.c
+zlib-1.3.2/contrib/minizip/LICENSE.Info-Zip
+zlib-1.3.2/contrib/minizip/mztools.c
+zlib-1.3.2/contrib/minizip/MiniZip64_info.txt
+zlib-1.3.2/contrib/minizip/minizip.pc.in
+zlib-1.3.2/contrib/minizip/minizip.1
+zlib-1.3.2/contrib/minizip/Makefile.am
+zlib-1.3.2/contrib/minizip/crypt.h
+zlib-1.3.2/contrib/minizip/zip.h
+zlib-1.3.2/contrib/minizip/ints.h
+zlib-1.3.2/contrib/minizip/make_vms.com
+zlib-1.3.2/contrib/minizip/unzip.h
+zlib-1.3.2/contrib/minizip/miniunzip.1
+zlib-1.3.2/contrib/minizip/mztools.h
+zlib-1.3.2/contrib/minizip/ioapi.h
+zlib-1.3.2/contrib/minizip/iowin32.c
+zlib-1.3.2/contrib/minizip/minizip.c
+zlib-1.3.2/contrib/minizip/miniunz.c
+zlib-1.3.2/contrib/README.contrib
+zlib-1.3.2/contrib/delphi/
+zlib-1.3.2/contrib/delphi/ZLibConst.pas
+zlib-1.3.2/contrib/delphi/ZLib.pas
+zlib-1.3.2/contrib/delphi/readme.txt
+zlib-1.3.2/contrib/delphi/zlibd32.mak
+zlib-1.3.2/contrib/zlib1-dll/
+zlib-1.3.2/contrib/zlib1-dll/CMakeLists.txt
+zlib-1.3.2/contrib/zlib1-dll/readme.txt
+zlib-1.3.2/contrib/infback9/
+zlib-1.3.2/contrib/infback9/inffix9.h
+zlib-1.3.2/contrib/infback9/inftree9.c
+zlib-1.3.2/contrib/infback9/CMakeLists.txt
+zlib-1.3.2/contrib/infback9/infback9.h
+zlib-1.3.2/contrib/infback9/README
+zlib-1.3.2/contrib/infback9/inflate9.h
+zlib-1.3.2/contrib/infback9/infback9.c
+zlib-1.3.2/contrib/infback9/inftree9.h
+zlib-1.3.2/contrib/gcc_gvmat64/
+zlib-1.3.2/contrib/gcc_gvmat64/CMakeLists.txt
+zlib-1.3.2/contrib/gcc_gvmat64/gvmat64.S
+zlib-1.3.2/contrib/testzlib/
+zlib-1.3.2/contrib/testzlib/CMakeLists.txt
+zlib-1.3.2/contrib/testzlib/testzlib.txt
+zlib-1.3.2/contrib/testzlib/testzlib.c
+zlib-1.3.2/contrib/nuget/
+zlib-1.3.2/contrib/nuget/nuget.sln
+zlib-1.3.2/contrib/nuget/nuget.csproj
+zlib-1.3.2/contrib/iostream/
+zlib-1.3.2/contrib/iostream/test.cpp
+zlib-1.3.2/contrib/iostream/zfstream.cpp
+zlib-1.3.2/contrib/iostream/zfstream.h
+zlib-1.3.2/contrib/blast/
+zlib-1.3.2/contrib/blast/CMakeLists.txt
+zlib-1.3.2/contrib/blast/blast.c
+zlib-1.3.2/contrib/blast/test/
+zlib-1.3.2/contrib/blast/test/CMakeLists.txt
+zlib-1.3.2/contrib/blast/test/find_package_wrong_components_test.cmake.in
+zlib-1.3.2/contrib/blast/test/find_package_test.cmake.in
+zlib-1.3.2/contrib/blast/test/find_package_no_components_test.cmake.in
+zlib-1.3.2/contrib/blast/test/add_subdirectory_exclude_test.cmake.in
+zlib-1.3.2/contrib/blast/test/add_subdirectory_test.cmake.in
+zlib-1.3.2/contrib/blast/Makefile
+zlib-1.3.2/contrib/blast/blast-test.c
+zlib-1.3.2/contrib/blast/test.pk
+zlib-1.3.2/contrib/blast/README
+zlib-1.3.2/contrib/blast/blast.h
+zlib-1.3.2/contrib/blast/test.txt
+zlib-1.3.2/contrib/blast/blastConfig.cmake.in
+zlib-1.3.2/contrib/blast/tester.cmake
+zlib-1.3.2/contrib/puff/
+zlib-1.3.2/contrib/puff/bin-writer.c
+zlib-1.3.2/contrib/puff/CMakeLists.txt
+zlib-1.3.2/contrib/puff/puffConfig.cmake.in
+zlib-1.3.2/contrib/puff/test/
+zlib-1.3.2/contrib/puff/test/CMakeLists.txt
+zlib-1.3.2/contrib/puff/test/tester-cov.cmake
+zlib-1.3.2/contrib/puff/test/find_package_wrong_components_test.cmake.in
+zlib-1.3.2/contrib/puff/test/find_package_test.cmake.in
+zlib-1.3.2/contrib/puff/test/find_package_no_components_test.cmake.in
+zlib-1.3.2/contrib/puff/test/add_subdirectory_exclude_test.cmake.in
+zlib-1.3.2/contrib/puff/test/tester.cmake
+zlib-1.3.2/contrib/puff/test/add_subdirectory_test.cmake.in
+zlib-1.3.2/contrib/puff/Makefile
+zlib-1.3.2/contrib/puff/puff.h
+zlib-1.3.2/contrib/puff/README
+zlib-1.3.2/contrib/puff/pufftest.c
+zlib-1.3.2/contrib/puff/puff.c
+zlib-1.3.2/contrib/puff/zeros.raw
+zlib-1.3.2/contrib/iostream3/
+zlib-1.3.2/contrib/iostream3/iostream3Config.cmake.in
+zlib-1.3.2/contrib/iostream3/CMakeLists.txt
+zlib-1.3.2/contrib/iostream3/test/
+zlib-1.3.2/contrib/iostream3/test/CMakeLists.txt
+zlib-1.3.2/contrib/iostream3/test/find_package_wrong_components_test.cmake.in
+zlib-1.3.2/contrib/iostream3/test/find_package_test.cmake.in
+zlib-1.3.2/contrib/iostream3/test/find_package_no_components_test.cmake.in
+zlib-1.3.2/contrib/iostream3/test/add_subdirectory_exclude_test.cmake.in
+zlib-1.3.2/contrib/iostream3/test/add_subdirectory_test.cmake.in
+zlib-1.3.2/contrib/iostream3/zfstream.cc
+zlib-1.3.2/contrib/iostream3/zfstream.h
+zlib-1.3.2/contrib/iostream3/README
+zlib-1.3.2/contrib/iostream3/TODO
+zlib-1.3.2/contrib/iostream3/test.cc
+zlib-1.3.2/contrib/iostream2/
+zlib-1.3.2/contrib/iostream2/zstream.h
+zlib-1.3.2/contrib/iostream2/zstream_test.cpp
+zlib-1.3.2/crc32.c
+zlib-1.3.2/README
+zlib-1.3.2/infback.c
+zlib-1.3.2/zutil.c
+zlib-1.3.2/deflate.h
+zlib-1.3.2/zlib.pc.in
+zlib-1.3.2/gzguts.h
+zlib-1.3.2/examples/
+zlib-1.3.2/examples/gznorm.c
+zlib-1.3.2/examples/fitblk.c
+zlib-1.3.2/examples/enough.c
+zlib-1.3.2/examples/gzlog.h
+zlib-1.3.2/examples/gzjoin.c
+zlib-1.3.2/examples/gun.c
+zlib-1.3.2/examples/zran.h
+zlib-1.3.2/examples/README.examples
+zlib-1.3.2/examples/zlib_how.html
+zlib-1.3.2/examples/zpipe.c
+zlib-1.3.2/examples/gzlog.c
+zlib-1.3.2/examples/zran.c
+zlib-1.3.2/examples/gzappend.c
+zlib-1.3.2/zlib.h
+zlib-1.3.2/gzlib.c
+zlib-1.3.2/make_vms.com
+zlib-1.3.2/amiga/
+zlib-1.3.2/amiga/Makefile.sas
+zlib-1.3.2/amiga/Makefile.pup
+zlib-1.3.2/inflate.h
+zlib-1.3.2/inftrees.c
+zlib-1.3.2/INDEX
+zlib-1.3.2/BUILD.bazel
+zlib-1.3.2/doc/
+zlib-1.3.2/doc/rfc1952.txt
+zlib-1.3.2/doc/rfc1950.txt
+zlib-1.3.2/doc/algorithm.txt
+zlib-1.3.2/doc/rfc1951.txt
+zlib-1.3.2/doc/txtvsbin.txt
+zlib-1.3.2/doc/crc-doc.1.0.pdf
+zlib-1.3.2/uncompr.c
+zlib-1.3.2/gzwrite.c
+zlib-1.3.2/trees.c
+zlib-1.3.2/MODULE.bazel
+zlib-1.3.2/gzclose.c
+zlib-1.3.2/win32/
+zlib-1.3.2/win32/VisualC.txt
+zlib-1.3.2/win32/Makefile.bor
+zlib-1.3.2/win32/Makefile.msc
+zlib-1.3.2/win32/zlib.def
+zlib-1.3.2/win32/DLL_FAQ.txt
+zlib-1.3.2/win32/README-WIN32.txt
+zlib-1.3.2/win32/Makefile.gcc
+zlib-1.3.2/win32/zlib1.rc
+zlib-1.3.2/.cmake-format.yaml
+zlib-1.3.2/crc32.h
+zlib-1.3.2/Makefile.in
+zlib-1.3.2/inffast.c
+zlib-1.3.2/adler32.c
+zlib-1.3.2/zconf.h
+zlib-1.3.2/watcom/
+zlib-1.3.2/watcom/watcom_f.mak
+zlib-1.3.2/watcom/watcom_l.mak
+ Enter zlib directory
+ Configure zlib
+Checking for gcc...
+Checking for shared library support...
+Building shared library libz.so.1.3.2 with gcc.
+Checking for size_t... Yes.
+Checking for off64_t... Yes.
+Checking for fseeko... Yes.
+Checking for strerror... Yes.
+Checking for unistd.h... Yes.
+Checking for stdarg.h... Yes.
+Checking whether to use vs[n]printf() or s[n]printf()... using vs[n]printf().
+Checking for vsnprintf() in stdio.h... Yes.
+Checking for return value of vsnprintf()... Yes.
+Checking for attribute(visibility) support... Yes.
+Checking for s390x build ... No.
+ Compile zlib
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -I. -c -o example.o test/example.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o adler32.o adler32.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o crc32.o crc32.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o deflate.o deflate.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o infback.o infback.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o inffast.o inffast.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o inflate.o inflate.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o inftrees.o inftrees.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o trees.o trees.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o zutil.o zutil.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o compress.o compress.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o uncompr.o uncompr.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o gzclose.o gzclose.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o gzlib.o gzlib.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o gzread.o gzread.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -c -o gzwrite.o gzwrite.c
+ar rc libz.a adler32.o crc32.o deflate.o infback.o inffast.o inflate.o inftrees.o trees.o zutil.o compress.o uncompr.o gzclose.o gzlib.o gzread.o gzwrite.o 
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -o example example.o -L. libz.a
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -I. -c -o minigzip.o test/minigzip.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -o minigzip minigzip.o -L. libz.a
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/adler32.o adler32.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/crc32.o crc32.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/deflate.o deflate.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/infback.o infback.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/inffast.o inffast.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/inflate.o inflate.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/inftrees.o inftrees.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/trees.o trees.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/zutil.o zutil.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/compress.o compress.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/uncompr.o uncompr.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/gzclose.o gzclose.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/gzlib.o gzlib.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/gzread.o gzread.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -DPIC -c -o objs/gzwrite.o gzwrite.c
+gcc -shared -Wl,-soname,libz.so.1,--version-script,zlib.map -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -o libz.so.1.3.2 adler32.lo crc32.lo deflate.lo infback.lo inffast.lo inflate.lo inftrees.lo trees.lo zutil.lo compress.lo uncompr.lo gzclose.lo gzlib.lo gzread.lo gzwrite.lo  -lc 
+rm -f libz.so libz.so.1
+ln -s libz.so.1.3.2 libz.so
+ln -s libz.so.1.3.2 libz.so.1
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -o examplesh example.o  -L. libz.so.1.3.2
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -o minigzipsh minigzip.o  -L. libz.so.1.3.2
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -I. -D_FILE_OFFSET_BITS=64 -c -o example64.o test/example.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -o example64 example64.o -L. libz.a
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN -I. -D_FILE_OFFSET_BITS=64 -c -o minigzip64.o test/minigzip.c
+gcc -O3 -fPIC -D_LARGEFILE64_SOURCE=1 -DHAVE_HIDDEN  -o minigzip64 minigzip64.o -L. libz.a
+ Install zlib
+rm -f /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a
+cp libz.a /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib
+chmod 644 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.a
+cp libz.so.1.3.2 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib
+chmod 755 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/libz.so.1.3.2
+rm -f /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/share/man/man3/zlib.3
+cp zlib.3 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/share/man/man3
+chmod 644 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/share/man/man3/zlib.3
+rm -f /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/pkgconfig/zlib.pc
+cp zlib.pc /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/pkgconfig
+chmod 644 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/lib/pkgconfig/zlib.pc
+rm -f /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zlib.h /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zconf.h
+cp zlib.h zconf.h /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include
+chmod 644 /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zlib.h /home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/HEPTools/zlib/include/zconf.h
+ Finished zlib installation

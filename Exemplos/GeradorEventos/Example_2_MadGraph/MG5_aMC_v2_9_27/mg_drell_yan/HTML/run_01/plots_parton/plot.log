@@ -1,0 +1,31 @@
+ *****************************************************
+ *                   MadAnalysis                     *
+ *               a MadEvent program                  *
+ *    for making plots and do simple analysis for    *
+ *            LHE and LHCO event files               *
+ *        ---------------------------------          *
+ *        Version compliant with MG_ME_V4.0          *
+ *                                                   *
+ *       Authors: R. Frederix and F. Maltoni         *
+ *                                                   *
+ *         Last Update by R.F., 23-Feb-2006          *
+ *****************************************************
+  
+ input name of event file:
+ -------------------------
+ File extension unknown
+ Can only plot .lhe and .lhco files.
+plot_events found
+topdrawer found
+epstosmth found
+plot_card found
+cp: '../../../Cards/plot_card.dat' e './ma_card.dat' são o mesmo arquivo
+end plot_events
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+csplit: não foi possível abrir 'plots.top' para leitura: Arquivo ou diretório inexistente
+cat: 'ma_plot???': Arquivo ou diretório inexistente
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+EPSTOSMTH 2.8, 2006/05/09 - Copyright 1998-2001 by Sebastian Rahtz et al.
+!!! Error: 'ma_plot???.ps' does not exist!
