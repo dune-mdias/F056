@@ -1,0 +1,5 @@
+export PYTHIA8=~/pythia8317/
+export PYTHIA8DATA=$PYTHIA8/share/Pythia8/xmldoc
+export LD_LIBRARY_PATH=$PYTHIA8/lib:$LD_LIBRARY_PATH
+
+g++ cross_section_v1.cpp -o wz     -I$PYTHIA8/include     -L$PYTHIA8/lib     -lpythia8 -ldl     -Wl,-rpath,$PYTHIA8/lib     -O2 -std=c++11

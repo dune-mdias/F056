@@ -1,0 +1,93 @@
+ *****************************************************
+ *                   MadAnalysis                     *
+ *               a MadEvent program                  *
+ *    for making plots and do simple analysis for    *
+ *            LHE and LHCO event files               *
+ *        ---------------------------------          *
+ *        Version compliant with MG_ME_V4.0          *
+ *                                                   *
+ *       Authors: R. Frederix and F. Maltoni         *
+ *                                                   *
+ *         Last Update by R.F., 23-Feb-2006          *
+ *****************************************************
+  
+ input name of event file:
+ -------------------------
+Found Les Houches Event File 
+    output file: plots.top                                                                                                                                                                                               
+ Classes will be read from file: ./ma_card.dat
+ Found the following classes in input classes file:
+  class # 0 is   mET   12 -12  14 -14  16 -16 122
+  class # 1 is   jet    1  -1   2  -2   3  -3   4  -4  21
+  class # 2 is   b      5  -5
+ Now start parsing events a first time
+ created new class mu+ for particle         -13
+ created new class mu- for particle          13
+ Setting up graphs
+          11  plots set up
+ Setting up acceptance cuts
+ Cuts set up
+ SEE plots.log FOR MORE INFO
+ Now parsing events to fill histograms
+ At event         1000
+ At event         2000
+ At event         3000
+ At event         4000
+ At event         5000
+ At event         6000
+ At event         7000
+ At event         8000
+ At event         9000
+ At event        10000
+  
+ ----------------------------------------------
+               events information              
+ ----------------------------------------------
+  
+   Events in file               :         10000
+   Integrated weight (pb)       :     6425480.0000011781     
+   Max wgt                      :     642.54800000000000     
+   Average wgt                  :     642.54800000011778     
+  
+   Passing the cuts (plotted)
+   --------------------------
+  
+   Events                       :         10000
+   Integrated weight (pb)       :     6425480.0000011781     
+   Max wgt                      :     642.54800000000000     
+   Average wgt                  :     642.54800000011778     
+plot_events found
+topdrawer found
+epstosmth found
+plot_card found
+cp: '../../../Cards/plot_card.dat' e './ma_card.dat' são o mesmo arquivo
+end plot_events
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+csplit: “/   NEW PLOT/”: ocorrência não encontrada na repetição 11
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: erro de sintaxe próximo ao token inesperado `newline'
+/home/mdias/posdoc/unicamp/F056/git/Exemplos/GeradorEventos/Example_2_MadGraph/MG5_aMC_v2_9_27/td/td: linha 1: `<!DOCTYPE html>'
+EPSTOSMTH 2.8, 2006/05/09 - Copyright 1998-2001 by Sebastian Rahtz et al.
+!!! Error: 'ma_plot???.ps' does not exist!
