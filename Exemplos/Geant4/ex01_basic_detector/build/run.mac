@@ -1,0 +1,4 @@
+# Macro de execucao em lote (batch mode)
+/run/initialize
+/tracking/verbose 1
+/run/beamOn 10

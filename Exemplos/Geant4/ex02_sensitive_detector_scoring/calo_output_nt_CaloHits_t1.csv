@@ -1,0 +1,25 @@
+#class tools::wcsv::ntuple
+#title Deposicao por Evento
+#separator 44
+#vector_separator 59
+#column double TotalEdep
+23.2296
+21.0623
+21.8772
+21.3148
+21.8606
+171.367
+18.9664
+61.0038
+16.9446
+74.7561
+79.4984
+19.1228
+18.3135
+18.0274
+18.2283
+202.59
+20.2823
+150.256
+38.1178
+17.3566

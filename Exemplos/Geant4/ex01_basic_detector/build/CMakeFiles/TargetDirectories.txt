@@ -1,0 +1,3 @@
+/home/mdias/posdoc/unicamp/F056/geant4/ex01_basic_detector/build/CMakeFiles/ex01_basic_detector.dir
+/home/mdias/posdoc/unicamp/F056/geant4/ex01_basic_detector/build/CMakeFiles/edit_cache.dir
+/home/mdias/posdoc/unicamp/F056/geant4/ex01_basic_detector/build/CMakeFiles/rebuild_cache.dir

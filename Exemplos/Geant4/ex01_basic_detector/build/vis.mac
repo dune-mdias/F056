@@ -1,0 +1,21 @@
+# Macro de visualizacao interativa para o Geant4
+/vis/open OGL 600x600-0+0
+
+# Desenha a geometria
+/vis/drawVolume
+
+# Define angulo de visao (isometrico)
+/vis/viewer/set/viewpointVector 1 1 1
+/vis/viewer/set/style surface
+/vis/viewer/set/autoRefresh true
+
+# Adiciona trajetorias de particulas
+/vis/scene/add/trajectories smooth
+/vis/scene/add/hits
+
+# Cores das trajetorias (e- vermelho, e+ azul, gamma verde, n amarelo)
+/vis/modeling/trajectories/create/drawByParticleID
+
+# Dispara 5 eventos iniciais
+/run/initialize
+/run/beamOn 5

@@ -1,0 +1,15 @@
+! Cartao de parametros do Pythia8 para geracao de pp -> Z0 -> e+ e-
+Beams:idA = 2212
+Beams:idB = 2212
+Beams:eCM = 13000.
+
+! Processo duro: Producao de Z0/gamma*
+WeakSingleBoson:ffbar2gmZ = on
+
+! Forca o decaimento do Z0 apenas para pares eletron-positron (e+ e-)
+23:onMode = off
+23:onIfMatch = 11 -11
+
+! Configuracoes gerais de saida
+Init:showChangedSettings = on
+Next:numberCount = 10
